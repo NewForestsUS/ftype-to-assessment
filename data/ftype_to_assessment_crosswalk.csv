@@ -1,349 +1,349 @@
-ss_code,ftype_list,aa_code,cp_lo,cp_hi
-2,104|105|506|511|512|519,3,97.06,114.61
-2,507|508|513|517|520|601|602|608|700|701|702|703|704|705|706|708|991,4,62.31,80.47
-2,171|184|400|401|402|404|405|406|409|999,5,54.94,54.94
-2,100|102|103|121|122|123|125|126|201|381|383|384|385|900|901|903,6,53.65,53.65
-2,516|707|800|801|802|805|809,7,95.89,104.55
-2,500|501|502|503|504|505|510|514|515,8,117.89,119.27
-2,161|162|163|165|167,9,67.37,67.37
-1,100|101|102|103|104|105|121|122|123|124|125|126|127|381|384|401|402|409|606|900|901|902|903|999,1,89.6,97.98
-1,501|502|503|504|505|510|513|515|516|517|519|520|608|701|703|704|705|706|707|708|709|800|801|802|805|809|904,2,101.56,102.6
-3,125|126|127,10,51.94,51.94
-3,701|702|704|708|904,11,35.9,35.9
-3,516|800|801|805|809,12,56,56
-3,102|103|104,13,179.69,179.69
-3,901|902|903|905,14,54.4,54.4
-3,105|121|122|123|124|384|999,15,49.28,49.28
-4,100|161|162|163|167|171|400|402|404|406|409|514|999,16,44.98,65.76
-4,141|142|164|168|403|407|980|983,17,48.02,56.74
-4,500|501|502|503|504|505|515,18,61.07,80.62
-4,519|602|700|702|703|704|709,19,80.87,89.03
-4,166|600|601|605|606|607|608|609|708|982,20,77.98,97.81
-4,506|507|508|511|512|520|705|706|995,21,51.42,57.78
-5,241|265|266|267|270|301|304|901|911|975|999,22,26.45,82.63
-5,201|221|321|703,23,37.44,96.74
-5,268|281|367,24,28.37,28.37
-6,260|261|265|266|268|281|320|321|367|901,25,46.49,46.49
-6,180|184|369|974,26,13.38,13.38
-6,201|202|221|267|270|368|703|704|920|923|975|999,27,40.76,64.98
-7,104|105|506|511|512|519,28,113.24,134.08
-7,507|508|513|520|608|700|702|704|708|995,29,73.64,73.64
-7,120|121|123|124|705|706|800|801|802|805|809,30,96.55,96.55
-7,500|501|502|503|504|505|510|515,31,118.98,130.83
-7,100|103|161|162|163|165|167|171|400|401|402|404|405|406|409|514|999,32,89.05,110.84
-8,184|185|201|221|261|266|268|901|971|974|975|999,33,16.56,16.56
-9,180|184|185|361|703|709|920|921|922|924|931|932|942|961|999,34,42.22,42.22
-10,102|103|104|105|122|171|381|384|385|401|502|503|505|515|519|901|902|903|999,35,119.4,119.4
-10,516|517|520|701|704|708|800|801|802|805|809,36,109.56,109.56
-11,201|341|361|368|941|942|951|961|999,37,284.19,284.19
-11,184|912|920|921|924|931|932|993,38,109.04,109.04
-12,101|171|182|220|221|381|402|500|501|503|509|512|513|514|520|600|802|962|973|999,39,19.03,19.03
-12,517|700|701|703|704|705|706|707|709|800|995,40,56.35,56.35
-13,600|601|602|608|700|701|702|703|704|708|709,41,78.51,78.51
-13,507|508|511|516|517|520,42,69.23,69.23
-13,705|706|707|800|801|802|805,43,76.08,102.26
-13,500|501|502|503|504|505|506|512|513|514|515|519,44,87.58,116.31
-13,102|103|162|163|171|400|401|402|404|409|999,45,39.79,39.79
-14,104|506|511|519,46,79.44,104.26
-14,600|601|602|605|607|608|700|701|702|703|704|708|709,47,101.18,101.18
-14,507|508|513|516|517|520|962|991|995,48,64.41,87.68
-14,705|706|707|800|801|802|805|901,49,83.36,95.29
-14,500|501|502|503|504|505|510|512|514|515,50,101.6,121.65
-14,167|400|401|402|404|405|406|409|999,51,47.55,47.55
-14,101|102|103|161|162|163|171,52,47.56,47.56
-15,600|601|608|700|701|702|703|704|708|709,53,69.56,69.56
-15,507|508|511|512|513|516|517|519|520|705|706|707|800|801|802|805|962|995,54,51.17,51.17
-15,500|502|503|504|505|506,55,70.42,78.2
-15,103|161|162|171|184|401|402|404|406|501|509|510|514|515|999,56,56.63,69.31
-16,506,57,90.74,90.74
-16,600|601|602|605|608|700|701|702|703|704|708|709,58,90.42,90.42
-16,507|508|511|513|516|517|520|995,59,56.05,89.19
-16,705|706|707|800|801|802|805|809|900|901,60,77.72,102.47
-16,500|501|502|503|504|505|510|512|514|515|519,61,96.35,104.9
-16,161|163|167|171|400|401|402|403|404|405|406|409|999,62,53.69,53.69
-16,102|103|162|381,63,100.24,100.24
-17,125|126|127,64,45.25,45.25
-17,517|608|701|703|704|706|708,65,53.19,53.19
-17,516|520|800|801|802|809,66,75.69,80.18
-17,101|102|103|104|401|409|503|505|519,67,96.88,96.88
-17,900|901|902|903|905,68,55.42,55.42
-17,105|121|122|123|124|385|999,69,55.48,55.48
-18,201|221|261|265|368|703|901|971|972|976,70,42.77,42.77
-18,184|185|973|999,71,8.74,8.74
-19,201|221|261|265|368|507|520|608|703|706|901|962|971|972|976,72,7.81,7.81
-19,184|185|514|999,73,4.72,4.72
-19,973,74,2.63,2.63
-20,201|261|265|266|268|269|366|901,75,77.03,77.03
-20,703|706|971|972|976,76,29.92,29.92
-20,182|184|185,77,16.64,16.64
-20,221|999,78,45.46,45.46
-21,901,79,38.91,38.91
-21,201|221|261|265|266|268|269|703|971|999,80,21.69,21.69
-21,182|184|185|974,81,19.72,19.72
-22,180|201|221|241|267|281|304|321|369|703|709|901|920|923|975|999,82,37.78,46.63
-23,517|600|601|602|605|608|700|701|702|703|704|705|706|800,83,34.42,34.42
-23,500|503|973,84,23.04,23.04
-23,171|184|402|404|501|509|514|520|802|962|971|972|976|999,85,29.27,29.27
-24,104|105|506|511|512|519,86,85.23,91.07
-24,600|601|602|605|608|701|702|703|704|708,87,67.32,67.32
-24,507|508|513|516|517|520|995,88,52.19,69.61
-24,705|706|707|800|801|802|805|809|901,89,88.22,88.22
-24,500|501|502|503|504|505|510|515,90,105.25,108.4
-24,100|167|400|401|402|404|405|406|409|999,91,60.34,60.34
-24,102|103|161|162|163|165|171|381,92,46.95,46.95
-25,260|261|262|263|264|265|266|268|270|281|321|367|901,93,48.89,48.89
-25,180|201|202|221|224|267|301|304|368|369|703|709|911|920|923|943|974|975|999,94,57.59,109.31
-26,102|171|381|402|500|501|503|505|509|512|513|520|802|999,95,48.89,48.89
-26,517|700|701|702|703|704|705|706|709|995,96,61.91,61.91
-27,901|905,97,58.63,58.63
-27,517|608|701|702|703|704|706|707|708|709,98,86.76,86.76
-27,102|103|104|105|122|123|126|127|167|171|381|384|385|401|402|405|507|999,99,49.76,49.76
-27,516|520|706|800|801|802|805|809,100,95.39,95.39
-27,502|503|504|505|506|512|513|515|519,101,113.19,113.19
-28,166|605|607|608|609|708,102,68.35,68.35
-28,161|400|402|406|409|514|999,103,37.3,37.3
-28,141|142|164|403|407|980|983,104,43.43,73.56
-28,507|508|520|995,105,75.2,75.2
-28,500|501|503,106,155.75,155.75
-28,519|600|602|700|704|706,107,88.43,88.43
-29,600|602|607|608|609|704|706|982,108,50.92,50.92
-29,142|400|407|514|520|980|983|992|999,109,42.66,42.66
-30,184|185|201|221|265|266|268|269|281|366|703|706|901|971|999,110,22.21,22.21
-31,171|182|184|185|201|220|221|402|700|703|706|971|995|999,111,16.34,16.34
-32,166|601|602|605|607|608|609|708|982,112,92.5,107.09
-32,161|162|163|171|400|402|404|406|409|514|999,113,53.22,77.98
-32,141|142|164|403|407|980|983|992|993,114,49.88,71.28
-32,500|501|502|503|504|505|506|507|508|511|520|995,115,56.41,61.38
-32,168|519|600|606|700|701|702|703|704|705|706|709,116,74,76.51
-33,201,117,66.85,66.85
-33,281,118,34.64,34.64
-33,267|304|703|902|974|975|999,119,24.92,24.92
-33,221,120,35.58,35.58
-33,265|266|268|321|366|367|901,121,45.5,45.5
-34,125|126|127,122,39.41,39.41
-34,517|700|701|702|704|707|904,123,34.49,34.49
-34,520|800|801|802|805|809,124,48.18,48.18
-34,401|500|503|505|519|962,125,20.08,20.08
-34,101|102|103|409|999,126,50.21,50.21
-34,900|901|902|905,127,36.82,39.82
-34,120|121|122,128,36.69,36.69
-35,125|126|127,129,63.16,63.16
-35,517|700|701|702|703|704|706|707|708|709|900|904|905,130,51.2,73.4
-35,105|516|520|800|801|802|805|809,131,79.37,88.51
-35,101|102|103|104|381|400|401|402|409|500|503|504|505|509|515|519|962|999,132,74.67,79.38
-35,121|122|269|384|385|901|902,133,40.64,52.67
-,125|126|127,155,,
-,517|700|701|702|703|704|706|707|904,156,,
-,516|520|800|801|802|805|809|995,157,,
-,400|401|500|503|504|505|509|519|962,158,,
-,101|102|103|171|381|409|999,159,,
-,900|901|902|905,160,,
-,120|121|122,161,,
-37,125|126|127,141,52.86,52.86
-37,517|700|701|702|703|704|706|707|708|709|904,142,54.57,54.57
-37,105|383|516|520|800|801|802|805|809|995,143,87.78,92.74
-37,400|401|402|500|501|503|504|505|507|509|513|515|519|962,144,76.1,84.69
-37,101|102|103|104|171|381|409|999,145,55.86,55.86
-37,900|901|902|905,146,51.7,72.39
-37,121|122|201|269|380|384,147,37.17,37.17
-38,125|126|127,148,32.31,32.31
-38,105|121|122|380|384|516|517|520|700|701|702|704|706|707|708|800|801|802|805|809|900|901|902|904|905,149,55.1,56.65
-38,101|102|103|104|381|401|409|500|503|504|505|509|513|515|519|962|999,150,72.9,73.08
-39,125|126|127,151,48.46,48.46
-39,105|516|517|520|700|701|702|704|706|707|708|800|801|802|805|809|904,152,79.71,81.6
-39,101|102|103|104|381|401|409|500|503|505|509|519|962|999,153,39.85,39.85
-39,121|122|385|900|901|902|905,154,42.42,51.12
-41,506|507|508|511|601|608|700|701|702|704|705|706|707|708|995,162,98.93,129.18
-41,100|102|103|104|105|122|123|125|126|129|171|201|381|383|384|401|606|903|999,163,101.1,120.38
-41,516|517|520|703|709|800|801|802|805|809|900|901|902,164,102.87,113.61
-41,500|501|502|503|504|505|510|512|513|514|515|519,165,128.03,144.9
-41,161|162|163|167|400|402|405|406|409,166,69.48,69.48
-45,168|600|601|602|605|607|608|700|701|702|703|704|705|706|708|709,178,77.5,80.68
-45,141|142|161|162|171|402|404|406|407|409|500|501|502|503|504|505|506|507|508|511|513|514|517|519|520|707|800|801|995|999,179,51.87,58.48
-46,167|168|402|404|409|506|507|508|511|512|513|517|519|520|707|800|801|802|805|809|995|999,180,54.76,78.79
-46,500|501|503|504|510|514|515,181,84.82,87.67
-46,600|700|701|702|703|704|705|706|708,182,60.16,61.94
-46,141|161|162|163|171|406,183,45.88,67.18
-46,601|602|605|607|608|708,184,90.08,103.68
-47,600|601|605|700|701|702|703|704|708|709,185,113.67,113.67
-47,507|508|511|516|517|520|705|706|707|800|801|802|805|809|901|962,186,92.62,94.13
-47,500|502|503|504|505|506|509|510|512|513|514|515|519,187,107.48,124.12
-47,103|163|171|381|383|400|401|402|409|999,188,31,31
-48,517|700|701|702|703|704|705|706|707|709|904,189,45.89,53.08
-48,512|516|520|800|801|802|805|809|995,190,62.54,69.58
-48,401|402|500|501|503|504|505|509|513|515|519|962,191,76.56,84.83
-48,101|102|103|171|381|409|999,192,34.31,60.51
-48,900|901|902|905,193,43.43,51.99
-48,121|122|125|126|127|128,194,39,39
-49,125|126|127,195,36.95,36.95
-49,517|700|701|702|703|704|706|707|708|709,196,57.89,57.89
-49,121|122|384|512|516|520|800|801|802|805|809|995,197,66.78,66.78
-49,400|401|402|500|501|502|503|504|505|509|513|515|519|962,198,77.57,90.52
-49,101|102|103|171|381|409|999,199,37.34,62.71
-49,900|901|902,200,37.54,37.54
-50,101|102|103|122|125|126|127|163|171|201|269|380|381|383|384|385,201,70.56,70.56
-50,517|600|601|605|700|701|702|703|704|705|706|708|709|904,202,59.08,83.63
-50,105|507|511|516|520|707|800|801|802|805|809|995,203,71.62,97.97
-50,400|401|402|409|500|501|502|503|504|505|506|509|510|512|513|515|519|962|999,204,85.56,107.96
-50,900|901|902|905,205,39.76,39.76
-42,125|126|127,167,58.5,58.5
-42,608|701|704|705|707|708|904,168,44.62,44.62
-42,516|520|800|801|802|805|809,169,59.25,59.25
-42,101|102|103|104|167|401|503|505,170,73.56,73.56
-42,900|901|902|903,171,50.13,50.13
-42,105|121|122|123|124|384|385|999,172,54.97,54.97
-43,180|183|184|260|261|281|367|369|901|953|974,173,24.5,24.5
-43,221|222|223|368|371|920|922|999,174,41.12,41.12
-44,281,175,37.98,37.98
-44,201|221|267|368|703|974|999,176,36.38,36.38
-44,182|184|185|265|266|268|321|366|367|901,177,24.15,24.15
-51,182|184|185|201|261|265|266|268|365|366|901|974|999,206,20.93,20.93
-52,901,207,43.04,43.04
-52,171|220|221|381|402|500|503|509|520|801|802|809|962,208,47.62,47.62
-52,517|700|701|703|704|706|800|904|995|999,209,50.38,50.38
-53,900|901|902|905,210,58.99,58.99
-53,102|105|122|123|125|126|127|201|381|383|384|385|999,211,80.89,80.89
-53,516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809,212,102.59,104.47
-53,501|502|503|504|505|506|510|512|513|514|515|519,213,112.08,112.08
-53,103|104|167|401|402|409|507,214,106.14,106.14
-54,103|506|507|508|511|512|513|516|519|520|705|706|800|801|802|809|901|995,215,82.28,108.21
-54,500|501|502|503|504|505|510|515,216,123.21,123.21
-54,100|105|163|167|171|400|401|402|404|405|406|409|514|999,217,60.41,94.43
-54,602|700|702|703|704|707|708|709,218,85.21,85.21
-54,141|142|160|161|162|403|407,219,55.92,92.26
-54,166|600|601|605|606|607|608|609|701,220,102.71,102.71
-55,201|260|261|301|305|341|361|363|368|371|911|941|942|943|961|999,221,152.72,205.15
-55,180|709|912|920|922|924|925|931|932|955,222,114.38,114.38
-56,517|700|701|703|800|962,223,30.92,30.92
-56,182|184|201|220|221|281|366|500|503|509|520|706|809|901|902|999,224,18.21,18.21
-57,182|201|221|321|368|703|709,225,42.63,42.63
-57,265|266|267|301|304|901|902|999,226,31.29,31.29
-57,241|268|270|281|366|367,227,30.83,30.83
-58,241|260|261|262|263|264|265|266|268|270|271|281|320|321|367|900|901|902,228,68.89,98.27
-58,180|201|202|221|222|224|267|301|304|305|368|369|703|704|709|722|911|912|920|923|941|943|961|975|999,229,64.57,120.77
-59,180|184|185|221|367|369|901|922|974|999,230,16.25,16.25
-60,201|241|267|301|304|320|321|703|709|911|962|999,231,65.18,80.49
-60,221,232,45.66,54.17
-60,260|265|266|268|270|281|900|901|902|975,233,62.66,62.66
-61,180|201|202|241|260|263|264|267|268|270|271|281|301|304|305|341|368|703|704|709|911|912|920|923|941|942|943|961|962|975|999,234,74.51,119.91
-62,161|162|999,235,41.77,62.26
-62,600|601|602|607|608|702|703|705|706,236,60.54,60.54
-62,507|508|519|520,237,37.79,37.79
-62,500|503|504|505,238,49.16,49.16
-62,163|171|402|404|406|501|514,239,42.76,42.76
-63,161|162|999,240,74.16,74.16
-63,600|602|605|608|702|705|706|707|805,241,84.66,84.66
-63,506|507|508|520,242,31.78,31.78
-63,500|503|504|505,243,75.17,75.17
-63,163|171|402|404|406|501|514,244,55.63,55.63
-64,600|601|608|609|700|701|702|703|704|708|709,245,75.96,75.96
-64,705|706|707|800|801|802|805|900|901,246,76.72,89.86
-64,507|511|512|513|516|517|520|809|962|995,247,53.6,67.1
-64,500|502|503|504|505|514|515|519,248,82.48,87.96
-64,101|102|103|163|171|221|381|400|402|409|501|509|510|999,249,49.35,49.35
-65,126|700|701|703|704|705|706|709|802,250,70.57,70.57
-65,707|800|801|805|901|995,251,78.79,78.79
-65,512|517|520|809,252,62.57,62.57
-65,102|103|171|402|500|503|504|505|509|962|999,253,75.65,75.65
-66,517|700|701|703|704|706|709|802|904,254,63.44,63.44
-66,122|520|800|801|805|809|901|995,255,50.94,50.94
-66,101|500|503|509|999,256,84.41,84.41
-67,201|260|264|270|281|301|304|305|703|704|709|722|900|902|911|912|920|923|961|962|999,257,125.85,125.85
-68,601|602|605|608|708,258,72.48,72.48
-68,161|162|999,259,52.64,52.64
-68,500|503|504|505|514,260,64.34,64.34
-68,171|402|404|406|501,261,46.54,46.54
-68,600|702|703|704|705|706|707|709,262,46.9,46.9
-68,507|508|512|513|520,263,34.81,34.81
-69,141|161|162|163|167|171|400|401|402|403|404|405|406|407|409|514|999,264,50.7,74.22
-69,519|600|601|602|607|608|700|702|703|704|705|706|708|801|805,265,87.92,87.92
-69,500|501|502|503|504|505|510|515,266,94.6,110.49
-69,104|105|506|507|508|511|512|513|520|995,267,53.73,68.16
-70,605|607|608|609,268,82.21,106.72
-70,100|103|141|142|161|162|163|164|165|167|171|400|401|402|403|404|405|406|407|409|514|999,269,54.37,75.15
-70,500|501|502|503|504|505|510|515,270,102.56,106.82
-70,168|517|600|601|602|700|702|703|704|707|708|709,271,74.07,94.41
-70,104|105|506|507|508|511|512|513|516|519|520|705|706|901|995,272,67.17,82.59
-71,601|602|605|607|608|708,273,86.34,134.32
-71,141|142|161|162|999,274,55.89,101.39
-71,500|503|504|505|515,275,80.65,111.36
-71,171|402|403|404|406|407|501|509|514,276,68.51,107.26
-71,600|702|703|704|705|706|707,277,65.66,91.89
-71,506|507|508|513|519|520|995,278,50.33,70.92
-72,241|260|261|262|270|281|365|366|367|901,279,133.84,133.84
-72,201|221|225|342|368|371|911|941|951|961|999,280,79.47,145.39
-72,223|361|703|709|912|920|921|922|924|925|931|932|942|955,281,83.11,83.11
-72,180|183|184|185|369|953|974,282,18.4,18.4
-73,180|184|185|221|223|371|703|709|911|920|921|922|924|932|942|955|974|999,283,33.55,33.55
-74,180|184|185|201|266|268|281|369|703|901|974|975|999,284,16.38,16.38
-76,605|608|701|702|703|704|705|706|708|709,288,71.85,71.85
-76,101|104|161|162|163|167|171|401|402|404|405|406|409,289,73.68,73.68
-76,102|103|105|122|269|381|384|385|999,290,50.24,50.24
-76,501|502|503|504|505|510|512|515|519,291,112.48,119.13
-76,506|507|508|511|513|516|517|520|707|800|801|802|805|809|901|995,292,81.1,96.54
-77,703|920|931|942|951|993|999,293,70.98,70.98
-78,180|183|184|185|221|223|261|281|366|368|369|371|911|953|974|999,294,17.16,17.16
-78,722|920|922|924|926|931|932|972,295,89.52,89.52
-79,180|183|184|241|261|262|268|281|365|367|369,296,61,61
-79,201|202|221|222|223|224|260|267|270|304|305|341|361|368|371|901|911|941|942|943|951|961|999,297,81.81,121.77
-79,703|709|722|912|920|921|922|923|924|925|931|932|953|955|974,298,63.94,108.81
-80,901,299,33.28,33.28
-80,265|266|268|281|365|366,300,59.88,59.88
-80,182|184|185|201|221|269|703|971|975|999,301,30.49,30.49
-81,201|221|703|709|971|976|999,302,39.04,39.04
-81,182|184|185,303,18.89,18.89
-81,261|265|266|268|269|281|365|366|368|901,304,55.33,55.33
-82,182|184|185|501|503|514|515|520|600|972|976,305,12.92,12.92
-82,973|999,306,7.18,7.18
-82,507|608|703|704|705|706,307,11.02,11.02
-83,507|513|602|608|704|705|706|962|971|976,308,11.5,11.5
-83,184|185|501|520|972,309,18.31,18.31
-83,973|999,310,9.24,9.24
-83,514,311,24.39,24.39
-84,180|184|185|221|261|703|706|962|971|972|973|974|976|999,312,12.16,12.16
-85,901,313,56.54,56.54
-85,201|221|269|703|962|971|976|999,314,23.28,23.28
-85,182|184|185,315,21.07,21.07
-85,261|265|266|268|281|362|365|366,316,80.69,80.69
-86,900|901|902|903,317,46.34,46.34
-86,102|103|104|105|121|122|123|124|126|127|171|381|384|385|401|402|409|503|505|509|513|519|999,318,75.47,75.47
-86,516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809|904,319,81.47,84.02
-87,601|602|605|607|608,320,81.56,122.64
-87,500|503,321,76.64,76.64
-87,142|161|162|171|402|404|406|407|501|509|514|999,322,65.53,129.73
-87,600|702|704|705|706|709,323,51.61,75.45
-87,507|508|512|520|995,324,50.44,117.85
-87,184|973|976,325,11.72,11.72
-88,201|362|368|962|971,326,28.8,28.8
-88,706|972,327,26.11,26.11
-88,182|184|185|703|973|976,328,17.94,17.94
-88,221|999,329,50.54,50.54
-89,901,330,39.45,39.45
-89,201|221|269|999,331,34.74,34.74
-89,703|971|975,332,21.52,21.52
-89,182|184|185|974,333,25.37,25.37
-89,261|265|266|268|365|366,334,46.49,46.49
-90,901,335,23.29,23.29
-90,201|221|269|976|999,336,58.56,58.56
-90,703|706|971|975,337,21.38,21.38
-90,182|184|185|974,338,20.15,20.15
-90,261|265|266|268|281|366|367,339,39.75,39.75
-91,507|511|516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809,340,97.85,109.3
-91,102|103|105|122|269|381|384|401|402|901|903|905|999,341,59.53,59.53
-91,501|503|504|505|506|512|513|515|519,342,110.27,120.35
-92,180|182|183|184|185|201|223|225|261|265|266|281|365|366|367|369|371|901|953|971|974|999,343,13.12,13.12
-93,402|503|517|700|701|703|704|800|801|809|962|995,344,46.8,46.8
-93,122|171|182|184|201|220|221|366|500|509|520|706|901|902|999,345,23.2,23.2
-94,503|505|515|608|701|702|703|704|708|904,346,48.74,48.74
-94,105|121|122|123|124|125|126|127|900|901|902|903|999,347,49.32,53.31
-94,516|520|800|801|802|805|809,348,70.44,74.7
-94,102|103|104|401|409,349,93.56,93.56
-95,201|261|265|266|269|362|368|901|962|971|975,350,61.73,61.73
-95,706|972,351,16.14,16.14
-95,182|184|185|703|973|976,352,15.73,15.73
-95,221|999,353,54.19,54.19
-96,201|202|221|260|267|301|304|368|381|703|704|709|722|911|912|920|922|923|961|999,354,110.67,110.67
-97,201|265|974|999,355,31.46,31.46
-97,281|901,356,66,66
-97,182|184|221|703,357,26.79,26.79
-97,266|268|366|367,358,45.08,45.08
+ss_name,ss_code,ftype_list,aa_name,species,aa_code,cp_lo,cp_hi
+Allegheny & North Cumberland Mountains,2,104|105|506|511|512|519,Allegheny & North Cumberland Mountains Cove Forests,"Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak",3,97.06,114.61
+Allegheny & North Cumberland Mountains,2,507|508|513|517|520|601|602|608|700|701|702|703|704|705|706|708|991,Allegheny & North Cumberland Mountains Mixed Hardwoods,"Black ash , American elm , red maple, black locust, cottonwood, elm, ash, birch,sycamore, sassafras, persimmon, pecan, willow",4,62.31,80.47
+Allegheny & North Cumberland Mountains,2,171|184|400|401|402|404|405|406|409|999,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,"Eastern redcedar, eastern white pine, northern red oak, white ash, Virginia pine, southern red oak",5,54.94,54.94
+Allegheny & North Cumberland Mountains,2,100|102|103|121|122|123|125|126|201|381|383|384|385|900|901|903,Allegheny & North Cumberland Mountains Northern Conifer,"Aspen, balsam fir, black spruce, eastern white pine, Norway spruce, red pine, red spruce, Scotch pine",6,53.65,53.65
+Allegheny & North Cumberland Mountains,2,516|707|800|801|802|805|809,Allegheny & North Cumberland Mountains Northern Hardwoods,"Black cherry, white ash, yellow-poplar, hard maple, basswood, maple, beech, birch group, red maple, upland, sugar maple, yellow birch",7,95.89,104.55
+Allegheny & North Cumberland Mountains,2,500|501|502|503|504|505|510|514|515,Allegheny & North Cumberland Mountains Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, white oak, hickory",8,117.89,119.27
+Allegheny & North Cumberland Mountains,2,161|162|163|165|167,Allegheny & North Cumberland Mountains Pine,"Table Mountain pine, Virginia pine",9,67.37,67.37
+Adirondacks & Green Mountains,1,100|101|102|103|104|105|121|122|123|124|125|126|127|381|384|401|402|409|606|900|901|902|903|999,Adirondacks & Green Mountains Northeast Conifers,"Aspen, balsam fir, black spruce, eastern hemlock, eastern white pine, northern red oak, white ash, gray birch, northern white-cedar, Norway spruce, paper birch, red pine, red spruce, Scotch pine, tamarack, white, red, jack pine, white spruce",1,89.6,97.98
+Adirondacks & Green Mountains,1,501|502|503|504|505|510|513|515|516|517|519|520|608|701|703|704|705|706|707|708|709|800|801|802|805|809|904,Adirondacks & Green Mountains Northern Hardwood,"Balsam poplar, black ash, american elm, red maple, black cherry, cherry, white ash, yellow poplar, maple, basswood, maple, beech, birch group, mixed upland hardwoods, northern red aok, post oak, blackjack oak, lowland, oak, upland, scarlet oak, silver maple, sugar maple, yellow birch, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, sycamore, pecan, white oak, red oak, hickory, willow",2,101.56,102.6
+Aroostook Hills and Lowlands,3,125|126|127,Aroostook Hills and Lowlands Conifer Bog,"Black spruce, white cedar, tamarack",10,51.94,51.94
+Aroostook Hills and Lowlands,3,701|702|704|708|904,Aroostook Hills and Lowlands Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, birch, sycamore, cherry, white ash, yellow poplar, basswood,  sugar maple",11,35.9,35.9
+Aroostook Hills and Lowlands,3,516|800|801|805|809,Aroostook Hills and Lowlands Northern Hardwoods,"Black cherry, white ash, yellow poplar, basswood, birch, red maple, sugar maple, beech",12,56,56
+Aroostook Hills and Lowlands,3,102|103|104,Aroostook Hills and Lowlands Pine Forests,"Eastern white pine, eastern hemlock, red pine",13,179.69,179.69
+Aroostook Hills and Lowlands,3,901|902|903|905,Aroostook Hills and Lowlands Poplar/Birch,"Aspen, gray birch, paper birch",14,54.4,54.4
+Aroostook Hills and Lowlands,3,105|121|122|123|124|384|999,Aroostook Hills and Lowlands Spruce-Fir,"Balsam fir, eastern hemlock, Norway spruce, red spruce, white spruce",15,49.28,49.28
+Atlantic Coastal Plain & Flatwoods,4,100|161|162|163|167|171|400|402|404|406|409|514|999,Atlantic Coastal Plain Loblolly-Shortleaf-Oak,"Eastern red cedar, loblolly pine, oak, shortleaf pine, southern scrub oak, Virginia pine, white pine, red pine, jack pine",16,44.98,65.76
+Atlantic Coastal Plain & Flatwoods,4,141|142|164|168|403|407|980|983,Atlantic Coastal Plain Longleaf-Slash Pine,"Longleaf pine, oak, palms, sand pine, slash pine, spruce pine, tropical hardwoods",17,48.02,56.74
+Atlantic Coastal Plain & Flatwoods,4,500|501|502|503|504|505|515,Atlantic Coastal Plain Oak-Hickory,"Chestnut oak, black oak, scarlet oak, hickory, post oak, blackjack oak, white oak, red oak",18,61.07,80.62
+Atlantic Coastal Plain & Flatwoods,4,519|602|700|702|703|704|709,Atlantic Coastal Plain Riverine Hardwood,"Cottonwood, willow, elm, ash, red maple, oak, river birch, sycamore, sweetgum, nuttail oak, willow oak",19,80.87,89.03
+Atlantic Coastal Plain & Flatwoods,4,166|600|601|605|606|607|608|609|708|982,Atlantic Coastal Plain Swamp Hardwood & Cypress,"Atlantic white-cedar, bald cypress, pond cypress, water tupelo, oak, gum, overcup oak, water hickory, pond pine, red maple, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo",20,77.98,97.81
+Atlantic Coastal Plain & Flatwoods,4,506|507|508|511|512|520|705|706|995,Atlantic Coastal Plain Upland Hardwood,"Sassafras , persimmon, sugarberry, hackberry, elm, green ash, sweetgum, yellow poplar, sycamore, pecan, American elm, white oak, northern red oak",21,51.42,57.78
+Bitterroot Mountains,5,241|265|266|267|270|301|304|901|911|975|999,Bitterroot Fir / Spruce / Hemlock,"Aspen, gray birch, paper birch, Engelmann spruce, subalpine fir, grand fir, intermountain maple, mountain hemlock, red alder, western hemlock, western red cedar, western white pine",22,26.45,82.63
+Bitterroot Mountains,5,201|221|321|703,Bitterroot Mixed Conifer,"Cottonwood, Douglas fir, ponderosa pine, western larch",23,37.44,96.74
+Bitterroot Mountains,5,268|281|367,Bitterroot Subalpine Mixed Conifer,"Lodgepole pine, subalpine fir, whitebark pine",24,28.37,28.37
+Blue Mountains,6,260|261|265|266|268|281|320|321|367|901,Blue Mountain High Elevation Conifer,"Aspen, Engelmann spruce, subalpine fir, spruce, mountain hemlock, lodgepole pine, subalpine fir, western larch, white fir, whitebark pine",25,46.49,46.49
+Blue Mountains,6,180|184|369|974,Blue Mountain Juniper / Pinyon Woodland,"Cercocarpus (mountain brush), juniper, pinyon/juniper, western juniper",26,13.38,13.38
+Blue Mountains,6,201|202|221|267|270|368|703|704|920|923|975|999,Blue Mountain Mixed Conifer,"Douglas fir, grand fir, intermountain maple, Oregon white oak, ponderosa pine, Port Orford cedar, western oak",27,40.76,64.98
+Blue Ridge Mountains,7,104|105|506|511|512|519,Blue Ridge Cove Forest,"Black walnut, eastern hemlock, eastern white pine, red maple, oak, yellow poplar, white oak, northern red oak",28,113.24,134.08
+Blue Ridge Mountains,7,507|508|513|520|608|700|702|704|708|995,Blue Ridge Mixed Hardwoods,"Black locust, elm, ash, cottonwood, red maple, river birch, sycamore, sassafras, persimmon, sweetbay, swamp tupelo, red maple, sweetgum, yellow poplar, willow",29,73.64,73.64
+Blue Ridge Mountains,7,120|121|123|124|705|706|800|801|802|805|809,Blue Ridge Northern Hardwoods,"Balsam fir, black cherry, hard maple, basswood, maple, beech,  birch, red maple, red spruce, balsam fir, spruce, fir, sugar maple, beech, yellow birch, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",30,96.55,96.55
+Blue Ridge Mountains,7,500|501|502|503|504|505|510|515,Blue Ridge Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, white oak, red oak",31,118.98,130.83
+Blue Ridge Mountains,7,100|103|161|162|163|165|167|171|400|401|402|404|405|406|409|514|999,Blue Ridge Oak-Pine,"Eastern red cedar, eastern white pine, northern red oak, white ash, loblolly pine, oak, pine, pitch pine, shortleaf pine, oak, southern scrub oak, Table Mountain oak, Virginia pine, southern red oak, white/red/jack pine",32,89.05,110.84
+Booneville Basin,8,184|185|201|221|261|266|268|901|971|974|975|999,Bonneville Basin Pinyon / Juniper Mixed Woodland,"Aspen, cercocarpus (mountain brush), deciduous oak, Douglas fir, Engelmann spruce, subalpine fir, intermountain maple, juniper, pinyon, ponderosa pine, white fir",33,16.56,16.56
+California Central Valley Basin,9,180|184|185|361|703|709|920|921|922|924|931|932|942|961|999,California Valley Oak Woodland,"Blue oak, California black oak, California laurel, coast live oak, gray pine, pinyon, juniper, knobcone pine, pacific madrone, canyon live oak/interior live oak, western oak, blue oak, cottonwood, willow",34,42.22,42.22
+Catskill Mountains,10,102|103|104|105|122|171|381|384|385|401|502|503|505|515|519|901|902|903|999,Catskill Mountains Northeast Conifer-Oak-Hickory,"Aspen, chestnut oak, black oak, scarlet oak, eastern hemlock, eastern red cedar, eastern white pine, eastern hemlock, northern red oak, white ash, gray birch, introduced larch, Norway spruce, paper birch, red maple, oak, red pine, scotch pine, white oak, red oak, hickory, white spruce",35,119.4,119.4
+Catskill Mountains,10,516|517|520|701|704|708|800|801|802|805|809,Catskill Mountains Northern Hardwood,"Black ash, American elm, red maple, black cherry, cherry, white ash, yellow poplar, elm, ash, black locust, hard maple, basswood, maple, beech, birch, red maple, sugar maple, beech, yellow birch, willow",36,109.56,109.56
+Central California Coast,11,201|341|361|368|941|942|951|961|999,Central California Coast Redwood/Douglas-fir Mixed Conifer,"California laurel, Douglas fir, knobcone pine, pacific madrone, redwood, tanoak",37,284.19,284.19
+Central California Coast,11,184|912|920|921|924|931|932|993,Central California Coast Mixed Oak Woodland,"Bigleaf maple, blue oak, coast live oak, eucalyptus, gray pine, juniper, western oak",38,109.04,109.04
+Central Great Plains,12,101|171|182|220|221|381|402|500|501|503|509|512|513|514|520|600|802|962|973|999,Central Great Plains Mixed Forest,"ack cherry, black locust, bur oak, eastern red cedar, jack pine, ponderosa pine, Rocky Mountain juniper, scotch pine, white oak, red oak, hickory",39,19.03,19.03
+Central Great Plains,12,517|700|701|703|704|705|706|707|709|800|995,Central Great Plains Riparian Hardwood,"Black ash, American elm, red maple, cottonwood, willow, elm, ash black locust, maple, beech, birch, silver maple, American elm, sugarberry, hackberry, elm, green ash, willow",40,56.35,56.35
+Central Interior Broadleaf Forest Central Till Plains,13,600|601|602|608|700|701|702|703|704|708|709,Central Interior Broadleaf Forest Central Till Plains Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak, willow",41,78.51,78.51
+Central Interior Broadleaf Forest Central Till Plains,13,507|508|511|516|517|520,Central Interior Broadleaf Forest Central Till Plains Mixed Upland Hardwoods,"Cherry , white ash, yellow poplar, elm, ash, black locust, sassafras, persimmon, sweetgum",42,69.23,69.23
+Central Interior Broadleaf Forest Central Till Plains,13,705|706|707|800|801|802|805,Central Interior Broadleaf Forest Central Till Plains Northern Hardwoods,"Black cherry, hard maple, basswood, maple, beech, birch, silver maple, American elm, sugar maple,  yellow birch, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",43,76.08,102.26
+Central Interior Broadleaf Forest Central Till Plains,13,500|501|502|503|504|505|506|512|513|514|515|519,Central Interior Broadleaf Forest Central Till Plains Oak-Hickory,"Black locust, black walnut, chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, red maple, oak, scouthern scrub oak, white oak, red oak, hickory, yellow poplar",44,87.58,116.31
+Central Interior Broadleaf Forest Central Till Plains,13,102|103|162|163|171|400|401|402|404|409|999,Central Interior Broadleaf Forest Central Till Plains Oak-Pine,"Eastern red cedar, eastern white pine, northern red oak, white ash, oak, pine, red pine, shortleaf pine, Virginia pine",45,39.79,39.79
+Central Interior Broadleaf Forest Eastern Low Plateau,14,104|506|511|519,Central Interior Broadleaf Forest Eastern Low Plateau Cove Forest,"Red maple, oak, yellow poplar, white oak, northern red oak",46,79.44,104.26
+Central Interior Broadleaf Forest Eastern Low Plateau,14,600|601|602|605|607|608|700|701|702|703|704|708|709,Central Interior Broadleaf Forest Eastern Low Plateau Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, overcup oak, water hickory, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak, willow",47,101.18,101.18
+Central Interior Broadleaf Forest Eastern Low Plateau,14,507|508|513|516|517|520|962|991|995,Central Interior Broadleaf Forest Eastern Low Plateau Mixed Upland Hardwoods,"Black locust, cherry, white ash, cherry, yellow poplar, elm, ash, black locust, sassafras, persimmon, sweetgum, yellow poplar",48,64.41,87.68
+Central Interior Broadleaf Forest Eastern Low Plateau,14,705|706|707|800|801|802|805|901,Central Interior Broadleaf Forest Eastern Low Plateau Northern Hardwoods,"Aspen, black cherry, hard maple, basswood, maple, beech, birch, silver maple, American elm, sugar maple, yellow birch, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",49,83.36,95.29
+Central Interior Broadleaf Forest Eastern Low Plateau,14,500|501|502|503|504|505|510|512|514|515,Central Interior Broadleaf Forest Eastern Low Plateau Oak-Hickory,"Black walnut, chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, southern scrub oak, white oak, red oak",50,101.6,121.65
+Central Interior Broadleaf Forest Eastern Low Plateau,14,167|400|401|402|404|405|406|409|999,Central Interior Broadleaf Forest Eastern Low Plateau Oak-Pine,"Eastern red cedar, eastern white pine, northern red oak, white ash, loblolly pine, oak, pine, shortleaf pine, Virginia pine, southern red oak",51,47.55,47.55
+Central Interior Broadleaf Forest Eastern Low Plateau,14,101|102|103|161|162|163|171,Central Interior Broadleaf Forest Eastern Low Plateau Pine,"Eastern red cedar, eastern white pine, jack pine, red pine, Virginia pine",52,47.56,47.56
+Central Interior Broadleaf Forest Ozark Highlands,15,600|601|608|700|701|702|703|704|708|709,Central Interior Broadleaf Forest Ozark Highlands Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, willow",53,69.56,69.56
+Central Interior Broadleaf Forest Ozark Highlands,15,507|508|511|512|513|516|517|519|520|705|706|707|800|801|802|805|962|995,Central Interior Broadleaf Forest Ozark Highlands Mixed Upland Hardwoods,"Black cherry, black locust, black walnut, cherry, white ash, yellow poplar, elm, ash, black locust, hard maple, basswood, maple, beech, birch, red maple, oak, sassafras, persimmon, silver maple, American elm, sugar maple, beech, yellow birch, sugarberry, hackberry, green ash, sweetgum, sycamore, pecan",54,51.17,51.17
+Central Interior Broadleaf Forest Ozark Highlands,15,500|502|503|504|505|506,Central Interior Broadleaf Forest Ozark Highlands Oak-Hickory,"Chestnut oak, northern red oak, oak, hickory, white oak, red oak, hickory, yellow poplar",55,70.42,78.2
+Central Interior Broadleaf Forest Ozark Highlands,15,103|161|162|171|184|401|402|404|406|501|509|510|514|515|999,Central Interior Broadleaf Forest Ozark Highlands Oak-Pine,"Bur oak, chestnut oak, black oak, scarlet oak, eastern red cedar, eastern white pine, northern red oak, white ash, juniper, loblolly pine, post oak, blackjack oak, scarlet oak, shortleaf pine, oak, southern scrub oak",56,56.63,69.31
+Central Interior Broadleaf Forest Western Low Plateau,16,506,Central Interior Broadleaf Forest Western Low Plateau Cove Forest,Yellow-poplar / white oak / northern red oak,57,90.74,90.74
+Central Interior Broadleaf Forest Western Low Plateau,16,600|601|602|605|608|700|701|702|703|704|708|709,Central Interior Broadleaf Forest Western Low Plateau Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, overcup oak, water hickory, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak",58,90.42,90.42
+Central Interior Broadleaf Forest Western Low Plateau,16,507|508|511|513|516|517|520|995,Central Interior Broadleaf Forest Western Low Plateau Mixed Upland Hardwoods,"Black locust, cherry, white ash, yellow poplar, elm, ash, black locust, sassafras, persimmon, sweetgum, yellow poplar",59,56.05,89.19
+Central Interior Broadleaf Forest Western Low Plateau,16,705|706|707|800|801|802|805|809|900|901,Central Interior Broadleaf Forest Western Low Plateau Northern Hardwoods,"Black cherry, hard maple, basswood, maple, beech, birch, red maple, silver maple, American elm, sugar maple,  yellow birch, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",60,77.72,102.47
+Central Interior Broadleaf Forest Western Low Plateau,16,500|501|502|503|504|505|510|512|514|515|519,Central Interior Broadleaf Forest Western Low Plateau Oak-Hickory,"Black walnut, chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, red maple, oak, red maple, scarlet oak, southern scrub oak, white oak, red oak, hickory, yellow poplar",61,96.35,104.9
+Central Interior Broadleaf Forest Western Low Plateau,16,161|163|167|171|400|401|402|403|404|405|406|409|999,Central Interior Broadleaf Forest Western Low Plateau Oak-Pine,"Eastern red cedar, eastern white pine, northern red oak, white ash, loblolly pine, longleaf pine, oak, pine, pitch pine, shortleaf pine, Virginia pine, southern red oak",62,53.69,53.69
+Central Interior Broadleaf Forest Western Low Plateau,16,102|103|162|381,Central Interior Broadleaf Forest Western Low Plateau Pine,"Eastern white pine, red pine, shortleaf pine",63,100.24,100.24
+Central Maine & Fundy Coast & Ebayment,17,125|126|127,Central Maine & Fundy Coast & Ebayment Conifer Bog,"Black ash, American elm, red maple, cottonwood, elm, ash, black locust, red maple, sugarberry, hackberry, green ash, sweetbay, swamp tupelo, willow",64,45.25,45.25
+Central Maine & Fundy Coast & Ebayment,17,517|608|701|703|704|706|708,Central Maine & Fundy Coast & Ebayment Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, elm, ash, black locust, red maple, sugarberry, hackberry, green ash, sweetbay, swamp tupelo, willow",65,53.19,53.19
+Central Maine & Fundy Coast & Ebayment,17,516|520|800|801|802|809,Central Maine & Fundy Coast & Ebayment Northern Hardwoods,"Blasck cherry, white ash, yellow-poplar, red maple, sugar maple, beech, yellow birch",66,75.69,80.18
+Central Maine & Fundy Coast & Ebayment,17,101|102|103|104|401|409|503|505|519,Central Maine & Fundy Coast & Ebayment Pine Forests,"Eastern white pine, eastern hemlock, northern red oak, white ash, pine, red maple, oak, red pine, white oak, red oak, hickory",67,96.88,96.88
+Central Maine & Fundy Coast & Ebayment,17,900|901|902|903|905,Central Maine & Fundy Coast & Ebayment Poplar/Birch,"Aspen, birch, gray birch, paper birch, pin cherry",68,55.42,55.42
+Central Maine & Fundy Coast & Ebayment,17,105|121|122|123|124|385|999,Central Maine & Fundy Coast & Ebayment Spruce-Fir,"Balsam fir, eastern hemlock, larch, red spruce, balsam fir, white spruce",69,55.48,55.48
+Central New Mexico,18,201|221|261|265|368|703|901|971|972|976,Central New Mexico Mixed Conifer,"Aspen, cottonwood, deciduous oak, Douglas-fir, Englemann spruce, evergreen oak, ponderosa pine, white fir",70,42.77,42.77
+Central New Mexico,18,184|185|973|999,Central New Mexico Pinyon / Juniper Woodland,"Juniper, pinyon",71,8.74,8.74
+Chihuahuan Semi-Desert,19,201|221|261|265|368|507|520|608|703|706|901|962|971|972|976,Chihuahuan Mixed Oak Woodland,"Aspen, cottonwood, Douglas-fir, Englemann spruce, ponderosa pine, sassafras, persimmon, white fir",72,7.81,7.81
+Chihuahuan Semi-Desert,19,184|185|514|999,Chihuahuan Pinyon / Juniper Woodland,"Juniper, pinyon pine, scrub oak",73,4.72,4.72
+Chihuahuan Semi-Desert,19,973,Chihuahuan Pinyon / Mesquite Woodland,Mesquite woodland,74,2.63,2.63
+Colorado Plateau,20,201|261|265|266|268|269|366|901,Colorado Plateau High Elevation Conifer,"Aspen, blue spruce, Douglas-fir, Engelmann spruce, limber pine, subalpine fir, white fir",75,77.03,77.03
+Colorado Plateau,20,703|706|971|972|976,Colorado Plateau Oak Woodland,"Cottonwood, oak woodland",76,29.92,29.92
+Colorado Plateau,20,182|184|185,Colorado Plateau Pinyon/ Juniper Woodland,"Juniper, pinyon pine",77,16.64,16.64
+Colorado Plateau,20,221|999,Colorado Plateau Ponderosa Pine,Ponderosa pine,78,45.46,45.46
+Colorado River Canyon Lands,21,901,Colorado River Aspen,Aspen,79,38.91,38.91
+Colorado River Canyon Lands,21,201|221|261|265|266|268|269|703|971|999,Colorado River Mixed Forest,"Blue spruce, cottonwood, oak woodland, Douglas-fir, Engelmann spruce, subalpine fir, white fir ",80,21.69,21.69
+Colorado River Canyon Lands,21,182|184|185|974,Colorado River Pinyon / Juniper Woodlands,"Juniper, pinyon pine",81,19.72,19.72
+Columbia Basin,22,180|201|221|241|267|281|304|321|369|703|709|901|920|923|975|999,Columbia Basin Mixed Conifer,"Aspen, cottonwood, Douglas-fir, willow, grand fir, Oregon white oak, ponderosa pine, juniper, lodgepole pine, western larch, red cedar, western white pine",82,37.78,46.63
+Cross Timbers and Prairie,23,517|600|601|602|605|608|700|701|702|703|704|705|706|800,Cross Timbers and Prairie Lowland Hardwood,"Black ash, american elm, cottonwood, maple, beech, birch, oak, gum, cypress, water hickory, sugarberry, hackberry, green ash, sycamore, pecan, willow",83,34.42,34.42
+Cross Timbers and Prairie,23,500|503|973,Cross Timbers and Prairie Oak / Hickory,"Mesquite, oak, hickory",84,23.04,23.04
+Cross Timbers and Prairie,23,171|184|402|404|501|509|514|520|802|962|971|972|976|999,Cross Timbers and Prairie Oak / Pine / Cedar,"Black cherry,  bur oak, red cedar, post oak, blackjack oak, shortleaf pine",85,29.27,29.27
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,104|105|506|511|512|519,Eastern Broadleaf Forest Cumberland Plateau & Valley Cove Forest,"Eastern hemlock, white pine, eastern hemlock, red maple, yellow poplar, white/red oak",86,85.23,91.07
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,600|601|602|605|608|701|702|703|704|708,Eastern Broadleaf Forest Cumberland Plateau & Valley Lowland Hardwoods,"Cottonwood, oak, gum, cypress, red maple, birch, sycamore, sweetbay, tupelo, red maple, willow",87,67.32,67.32
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,507|508|513|516|517|520|995,Eastern Broadleaf Forest Cumberland Plateau & Valley Mixed Upland Hardwoods,"Black locust, sassafras, persimmon, sweetgum, yellow poplar",88,52.19,69.61
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,705|706|707|800|801|802|805|809|901,Eastern Broadleaf Forest Cumberland Plateau & Valley Northern Hardwoods,"Black cherry, basswood, maple, beech, birch, silver maple, American elm, sugar maple, hackberry, green ash, pecan",89,88.22,88.22
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,500|501|502|503|504|505|510|515,Eastern Broadleaf Forest Cumberland Plateau & Valley Oak-Hickory,"Chestnut oak, black oak, scarlet oak, red oak, hickory",90,105.25,108.4
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,100|167|400|401|402|404|405|406|409|999,Eastern Broadleaf Forest Cumberland Plateau & Valley Oak-Pine,"Eastern redcedar, white pine, red oak, white ash, loblolly pine, pitch pine, shortleaf pine, Virginia pine, souther red oak",91,60.34,60.34
+Eastern Broadleaf Forest Cumberland Plateau & Valley,24,102|103|161|162|163|165|171|381,Eastern Broadleaf Forest Cumberland Plateau & Valley Pine,"Eastern redcedar, loblolly pine, shortleaf pine, Virginia pine",92,46.95,46.95
+Eastern Cascades,25,260|261|262|263|264|265|266|268|270|281|321|367|901,Eastern Cascade High Elevation Conifer,"Aspen, Engelmann spruce, subalpine fir, fir, spruce, mountain hemlock, lodgepole pine, noble fir, Pacific silver fir, red fir, western larch, white fir, whitebark pine",93,48.89,48.89
+Eastern Cascades,25,180|201|202|221|224|267|301|304|368|369|703|709|911|920|923|943|974|975|999,Eastern Cascade Mixed Conifer,"Cercocarpus (mountain brush), cottonwood, willow, Douglas fir, giant chinkapin, grand fir, intermountain maple, Oregon white oak, pinyon/juniper, ponderosa pine, Port Orford cedar, red alder, sugar pine, western hemlock, western juniper, western oak, western red cedar",94,57.59,109.31
+Eastern Great Plains,26,102|171|381|402|500|501|503|505|509|512|513|520|802|999,Eastern Great Plains Mixed Woodland,"Black cherry, black walnut, bur oak, eastern red cedar, oak, hickory, post oak, blackjack oak, red pine, white oak, red oak",95,48.89,48.89
+Eastern Great Plains,26,517|700|701|702|703|704|705|706|709|995,Eastern Great Plains Riverine Hardwoods,"Black ash, American elm, red maple, cottonwood, elm, ash, black locust, sugarberry, hackberry, green ash, sycamore, pecan, American elm, willow",96,61.91,61.91
+Erie & Ontario Lake Plain,27,901|905,Erie & Ontario Lake Plain Aspen-Birch,"Aspen, birch",97,58.63,58.63
+Erie & Ontario Lake Plain,27,517|608|701|702|703|704|706|707|708|709,Erie & Ontario Lake Plain Elm-Ash-Red Maple,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, red maple, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, green ash, sweetbay, swamp tupelo ",98,86.76,86.76
+Erie & Ontario Lake Plain,27,102|103|104|105|122|123|126|127|167|171|381|384|385|401|402|405|507|999,Erie & Ontario Lake Plain Northeast Conifer,"Eastern hemlock,eastern red cedar, eastern white pine, eastern hemlock, northern red oak, white ash, introduced larch, northern white cedar, Norway spruce, pitch pine, red pine, sassafras, persimmon, scotch pine, tamarack Virginia pine, southern red oak, white spruce",99,49.76,49.76
+Erie & Ontario Lake Plain,27,516|520|706|800|801|802|805|809,Erie & Ontario Lake Plain Northern Hardwood,"Black cherry, cherry, white ash, yellow poplar, hard maple, basswood, maple, beech, birch, red maple, sugar maple, yellow birch, sugarberry, hackberry, elm, green ash",100,95.39,95.39
+Erie & Ontario Lake Plain,27,502|503|504|505|506|512|513|515|519,Erie & Ontario Lake Plain Oak-Hickory,"Black locust, black walnut, chestnut oak, black oak, scarlet oak, northern red oak, red maple, oak, white oak, red oak, hickory, yellow poplar",101,113.19,113.19
+Florida Coastal Plains Central Highlands,28,166|605|607|608|609|708,Florida Coastal Plains Central Highlands Hardwood & Cypress,"Bald cypress, pond cypress, water tupelo, overcup oak, water hickory, pond pine, red maple, sweetbay, swamp tupelo",102,68.35,68.35
+Florida Coastal Plains Central Highlands,28,161|400|402|406|409|514|999,Florida Coastal Plains Central Highlands Loblolly-Shortleaf-Oak,"Eastern red cedar, loblolly pine, oak, pine, southern scrub oak",103,37.3,37.3
+Florida Coastal Plains Central Highlands,28,141|142|164|403|407|980|983,Florida Coastal Plains Central Highlands Longleaf-Slash Pine,"Longleaf pine, oak, palms, sand pine, slash pine",104,43.43,73.56
+Florida Coastal Plains Central Highlands,28,507|508|520|995,Florida Coastal Plains Central Highlands Mixed Upland Hardwood,"Sassafras, persimmon, sweetgum, yellow poplar",105,75.2,75.2
+Florida Coastal Plains Central Highlands,28,500|501|503,Florida Coastal Plains Central Highlands Oak-Hickory,"Oak, hickory, post oak, blackjack oak, white oak, red oak",106,155.75,155.75
+Florida Coastal Plains Central Highlands,28,519|600|602|700|704|706,Florida Coastal Plains Central Highlands Riverine Hardwood,"Elm, ash, cottonwood, oak, gum, cypress, red maple, sugarberry, hackberry, green ash, sweetbay, swamp tupelo, sweetgum, nuttail oak, willow oak, willow",107,88.43,88.43
+Florida Everglades,29,600|602|607|608|609|704|706|982,Florida Everglades Swamp & River Hardwood & Cypress,"Bald cypress, pond cypress, water tupelo, mangrove, oak, gum, cypress, sugarberry, hackberry, green ash elm, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oal, willow oak, willow",108,50.92,50.92
+Florida Everglades,29,142|400|407|514|520|980|983|992|999,Florida Everglades Woodland Islands,"Melaleuca, oak, pine, palms, slash pine, southern scrub oak",109,42.66,42.66
+Great Divide Basin,30,184|185|201|221|265|266|268|269|281|366|703|706|901|971|999,Great Divide Basin Woodland,"Aspen, Douglas fir, Engelmann spruce, subalpine fir, juniper, pinyon, cottonwood, limber pine, lodgepole pine, ponderosa pine, sugarberry, hackberry, elm, green ash, blue spruce, deciduous oak",110,22.21,22.21
+Great Plains,31,171|182|184|185|201|220|221|402|700|703|706|971|995|999,Great Plains Woodland,"Cottonwood, deciduous oak, Douglas fir, juniper, pinyon, ponderosa pine, Rocky Mountain juniper, sugarberry, hackberry, elm, green ash, cottonwood, ash, eastern red cedar, sugarberry, hackberry",111,16.34,16.34
+Gulf Coastal Plain,32,166|601|602|605|607|608|609|708|982,Gulf Coastal Plain Cypress & Swamp Hardwood,"Bald cypress, water tupelo, overcup oak, water hickory, swamp chestnut, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak",112,92.5,107.09
+Gulf Coastal Plain,32,161|162|163|171|400|402|404|406|409|514|999,Gulf Coastal Plain Loblolly-Shortleaf-Oak,"Eastern red cedar, loblolly pine, shortleaf pine, oak, southern scrub oak",113,53.22,77.98
+Gulf Coastal Plain,32,141|142|164|403|407|980|983|992|993,Gulf Coastal Plain Longleaf-Slash Pine,"Longleaf pine, oak, slash pine",114,49.88,71.28
+Gulf Coastal Plain,32,500|501|502|503|504|505|506|507|508|511|520|995,Gulf Coastal Plain Mixed Hardwoods,"Oak, hickory, post oak, blackjack oak, white oak, red oak, sassafras, persimmon, sweetgum, yellow poplar",115,56.41,61.38
+Gulf Coastal Plain,32,168|519|600|606|700|701|702|703|704|705|706|709,Gulf Coastal Plain Riverine Hardwood,"Black ash, American elm, red maple, cottonwood, willlow, oak, gum, cypress, red maple, river birch, sycamore, sugarberry, hackbberry, elm, green ash, pecan, American elm, willow",116,74,76.51
+Idaho Batholith,33,201,Idaho Batholith Douglas-fir / Ponderosa,"Douglas-fir, ponderosa pine",117,66.85,66.85
+Idaho Batholith,33,281,Idaho Batholith Lodgepole Pine,Lodgepole pine,118,34.64,34.64
+Idaho Batholith,33,267|304|703|902|974|975|999,Idaho Batholith Mixed Conifer,"Cercocarpus (mountain brush), cottonwood, intermountain maple hardwood ",119,24.92,24.92
+Idaho Batholith,33,221,Idaho Batholith Ponderosa Pine,"Ponderosa pine, aspen, Engelmann spruce, subalpine fir, whitebark pine",120,35.58,35.58
+Idaho Batholith,33,265|266|268|321|366|367|901,Idaho Batholith Spruce / Fir,"Aspen, Engelmann spruce, subalpine fir, whitebark pine",121,45.5,45.5
+Laurentian Mixed Forest Arrowhead,34,125|126|127,Laurentian Mixed Forest Arrowhead Conifer Bog,"Black spruce, northern white cedar, tamarack",122,39.41,39.41
+Laurentian Mixed Forest Arrowhead,34,517|700|701|702|704|707|904,Laurentian Mixed Forest Arrowhead Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, elm, ash, black locust, cottonwood, river birch, sycamore, silver maple, willow",123,34.49,34.49
+Laurentian Mixed Forest Arrowhead,34,520|800|801|802|805|809,Laurentian Mixed Forest Arrowhead Northern Hardwoods,"Black cherry, hard maple, basswood, maple, beech, birch, red maple, sugar maple, yellow birch",124,48.18,48.18
+Laurentian Mixed Forest Arrowhead,34,401|500|503|505|519|962,Laurentian Mixed Forest Arrowhead Oak-Hickory,"Eastern white pine, northern red oak, white ash, oak, hickory, red maple, white oak, red oak",125,20.08,20.08
+Laurentian Mixed Forest Arrowhead,34,101|102|103|409|999,Laurentian Mixed Forest Arrowhead Pine Forests,"Eastern white pine, jack pine, red pine",126,50.21,50.21
+Laurentian Mixed Forest Arrowhead,34,900|901|902|905,Laurentian Mixed Forest Arrowhead Poplar/Birch,"Aspen, birch, paper birch, pin cherry",127,36.82,39.82
+Laurentian Mixed Forest Arrowhead,34,120|121|122,Laurentian Mixed Forest Arrowhead Spruce-Fir,"Balsam fir, spruce, fir, white spruce",128,36.69,36.69
+Laurentian Mixed Forest Green Bay Lobe,35,125|126|127,Laurentian Mixed Forest Green Bay Lobe Conifer Bog,"Black spruce, northern white cedar, tamarack",129,63.16,63.16
+Laurentian Mixed Forest Green Bay Lobe,35,517|700|701|702|703|704|706|707|708|709|900|904|905,Laurentian Mixed Forest Green Bay Lobe Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, green ash",130,51.2,73.4
+Laurentian Mixed Forest Green Bay Lobe,35,105|516|520|800|801|802|805|809,Laurentian Mixed Forest Green Bay Lobe Northern Hardwoods,"Cherry, white ash, yellow poplar, eastern hemlock, hard maple, basswood, maple, beech, birch, red maple, sugar maple, yellow birch",131,79.37,88.51
+Laurentian Mixed Forest Green Bay Lobe,35,101|102|103|104|381|400|401|402|409|500|503|504|505|509|515|519|962|999,Laurentian Mixed Forest Green Bay Lobe Pine-Oak-Hickory,"Bur oak, eastern red cedar, eastern white pine, northern red oak, white ash, oak, hickory, pine, red maple, red pine, white oak, red oak",132,74.67,79.38
+Laurentian Mixed Forest Green Bay Lobe,35,121|122|269|384|385|901|902,Laurentian Mixed Forest Green Bay Lobe Poplar-Spruce-Fir,"Aspen, balsam fir, Norway spruce, paper birch, white spruce",133,40.64,52.67
+,,125|126|127,,,155,,
+,,517|700|701|702|703|704|706|707|904,,,156,,
+,,516|520|800|801|802|805|809|995,,,157,,
+,,400|401|500|503|504|505|509|519|962,,,158,,
+,,101|102|103|171|381|409|999,,,159,,
+,,900|901|902|905,,,160,,
+,,120|121|122,,,161,,
+Laurentian Mixed Forest NLP/EUP,37,125|126|127,Laurentian Mixed Forest NLP/EUP Conifer Bog,"Black spruce, northern white cedar, tamarack",141,52.86,52.86
+Laurentian Mixed Forest NLP/EUP,37,517|700|701|702|703|704|706|707|708|709|904,Laurentian Mixed Forest NLP/EUP Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, elm, ash, black locust, cotonwood, river birch, sycamore, silver maple, willow",142,54.57,54.57
+Laurentian Mixed Forest NLP/EUP,37,105|383|516|520|800|801|802|805|809|995,Laurentian Mixed Forest NLP/EUP Northern Hardwoods,"Black cherry, white ash, yellow poplar, eastern hemlock, basswood, maple, beech, birch, red maple, sugar maple, yellow birch",143,87.78,92.74
+Laurentian Mixed Forest NLP/EUP,37,400|401|402|500|501|503|504|505|507|509|513|515|519|962,Laurentian Mixed Forest NLP/EUP Oak-Hickory,"Chestnut oak, black oak, scarlet oak, eastern white pine, northern red oak, white ash, oak, hickory, red maple, oak, white oak, red oak",144,76.1,84.69
+Laurentian Mixed Forest NLP/EUP,37,101|102|103|104|171|381|409|999,Laurentian Mixed Forest NLP/EUP Pine Forests,"Eastern white pine, eastern hemlock, jack pine, pine, red pine, scotch pine",145,55.86,55.86
+Laurentian Mixed Forest NLP/EUP,37,900|901|902|905,Laurentian Mixed Forest NLP/EUP Poplar/Birch,"Aspen, birch, paper birch, pin cherry",146,51.7,72.39
+Laurentian Mixed Forest NLP/EUP,37,121|122|201|269|380|384,Laurentian Mixed Forest NLP/EUP Spruce-Fir,"Balsam fir, white spruce",147,37.17,37.17
+Laurentian Mixed Forest Northern Highlands,38,125|126|127,Laurentian Mixed Forest Northern Highlands Conifer Bog,"Black spruce, northern white cedar, tamarack",148,32.31,32.31
+Laurentian Mixed Forest Northern Highlands,38,105|121|122|380|384|516|517|520|700|701|702|704|706|707|708|800|801|802|805|809|900|901|902|904|905,Laurentian Mixed Forest Northern Highlands Mixed Northern Hardwoods,"Aspen, birch, balsam fir, black ash, American elm, red maple, black cherry, cherry, white ash, yellow poplar, eastern hemlock, elm, ash, black locust, cottonwood, hard maple, basswood, maple, beech, paper birch, pin cherry, river birch, sycamore, silver maple, sugar maple, yellow birch, sugarberry, hackberry, green ash, white spruce, willow",149,55.1,56.65
+Laurentian Mixed Forest Northern Highlands,38,101|102|103|104|381|401|409|500|503|504|505|509|513|515|519|962|999,Laurentian Mixed Forest Northern Highlands Mixed Pine-Oak,"Bur oak, eastern white pine, eastern hemlock, jack pine, red pine, pine, scotch pine, northern red oak, white ash, oak, hickory, red maple, white oak",150,72.9,73.08
+Laurentian Mixed Forest Southern Superior,39,125|126|127,Laurentian Mixed Forest Southern Superior Conifer Bog,"Black spruce, northern white cedar, tamarack",151,48.46,48.46
+Laurentian Mixed Forest Southern Superior,39,105|516|517|520|700|701|702|704|706|707|708|800|801|802|805|809|904,Laurentian Mixed Forest Southern Superior Maple-Birch-Beech,"Balsam poplar, black ash, American elm, red maple, black cherry, eastern hemlock, elm, ash, black locust, cottonwood, hard maple, basswood, maple, beech, birch, red maple, river birch, sycamore, sugar maple, yellow birch, willow",152,79.71,81.6
+Laurentian Mixed Forest Southern Superior,39,101|102|103|104|381|401|409|500|503|505|509|519|962|999,Laurentian Mixed Forest Southern Superior Pine-Oak-Hickory,"Eastern white pine, eastern hemlock, northern red oak, white ash, jack pine, northern red oak, oak, hickory, pine, red pine, scotch pine, white oak, red oak, hickory",153,39.85,39.85
+Laurentian Mixed Forest Southern Superior,39,121|122|385|900|901|902|905,Laurentian Mixed Forest Southern Superior Poplar-Spruce-Fir,"Aspen, birch, balsam fir, introduced larch, paper birch, pin cherry, white spruce",154,42.42,51.12
+Lower New England - Northern Appalachia,41,506|507|508|511|601|608|700|701|702|704|705|706|707|708|995,Lower New England - Northern Appalachia Mixed Hardwood,"Black ash, American elm, red maple, river birch, sycamore, sassafras, persimmon, silver maple, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, pecan, willow, yellow poplar, white oak, northern red oak",162,98.93,129.18
+Lower New England - Northern Appalachia,41,100|102|103|104|105|122|123|125|126|129|171|201|381|383|384|401|606|903|999,Lower New England - Northern Appalachia Northern Conifer,"Eastern hemlock, eastern red cedar, eastern white pine, eastern hemlock, northern red oak, white ash, Norway spruce, red pine, red spruce, tamarack, white spruce",163,101.1,120.38
+Lower New England - Northern Appalachia,41,516|517|520|703|709|800|801|802|805|809|900|901|902,Lower New England - Northern Appalachia Northern Hardwood,"Aspen, birch, black cherry, white ash, yellow poplar, cottonwood, elm, ash, black locust, hard maple, basswood, maple, beech, birch, paper birch, red maple, sugar maple, beech, yellow birch",164,102.87,113.61
+Lower New England - Northern Appalachia,41,500|501|502|503|504|505|510|512|513|514|515|519,Lower New England - Northern Appalachia Oak-Hickory,"Black locust, black walnut, chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, red maple, oak, southern scrub oak, white oak, hickory",165,128.03,144.9
+Lower New England - Northern Appalachia,41,161|162|163|167|400|402|405|406|409,Lower New England - Northern Appalachia Shortleaf-Loblolly-Oak,"Eastern red cedar, oak, pine, pitch pine",166,69.48,69.48
+MS River Delta,45,168|600|601|602|605|607|608|700|701|702|703|704|705|706|708|709,MS River Delta Hardwood,"Bald cypress, water tupelo, cottonwood, oak, gum, cypress, overcup oak, water hickory, river birch, sycamore, sugarberry, hackberry, elm, green ash, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak, pecan, American elm, willow ",178,77.5,80.68
+MS River Delta,45,141|142|161|162|171|402|404|406|407|409|500|501|502|503|504|505|506|507|508|511|513|514|517|519|520|707|800|801|995|999,MS River Delta Woodland Islands,"Loblolly pine, oak, hickory, post oak, blackjack oak, sassafras, persimmon, shortleaf pine, oak, sweetgum, yellow poplar, white oak, red oak, hickory",179,51.87,58.48
+MS River Mixed Forest,46,167|168|402|404|409|506|507|508|511|512|513|517|519|520|707|800|801|802|805|809|995|999,MS River Mixed Forest Coastal Plain Mixed Hardwood-Pine,"Black cherry, black locust, black walnut, eastern red cedar, elm, ash, hard maple, basswood, maple, beech, birch, pine, pitch pine, red maple, oak, sassafras, persimmon, shortleaf pine, silver maple, American elm, spruce pine, yellow birch, sweetgum, yellow poplar, white oak, northern red oak",180,54.76,78.79
+MS River Mixed Forest,46,500|501|503|504|510|514|515,MS River Mixed Forest Coastal Plain Oak-Hickory,"Black locust, black walnut, chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, red maple, oak, southern scrub oak, white oak, hickory",181,84.82,87.67
+MS River Mixed Forest,46,600|700|701|702|703|704|705|706|708,MS River Mixed Forest Coastal Plain Riverine Hardwood,"Black ash, American elm, red maple, cottonwood, elm, ash, oak, gum, cypress, red maple, river birch, sycamore, sugarberry, hackberry, green ash, pecan, American elm, willow",182,60.16,61.94
+MS River Mixed Forest,46,141|161|162|163|171|406,MS River Mixed Forest Coastal Plain Southern Pine,"Eastern red cedar, loblolly pine, longleaf pine, shortleaf pine, Virginia pine",183,45.88,67.18
+MS River Mixed Forest,46,601|602|605|607|608|708,MS River Mixed Forest Coastal Plain Swamp Hardwood,"Bald cypress, water tupelo, overcup oak, water hickory, red maple, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, sweetgum, nuttail oak, willow oak",184,90.08,103.68
+MW Broadleaf Forest Central Till Plains,47,600|601|605|700|701|702|703|704|708|709,MW Broadleaf Forest Central Till Central Lowland Hardwoods,"Black ash, American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, overcup oak, water hickory, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, willow",185,113.67,113.67
+MW Broadleaf Forest Central Till Plains,47,507|508|511|516|517|520|705|706|707|800|801|802|805|809|901|962,MW Broadleaf Forest Central Till Central Maple-Beech-Birch,"Aspen, black cherry, cherry, white ash, yellow poplar, elm, ash, black locust, hard maple, basswood, maple, beech, birch, red maple, sassafras, persimmon, silver maple, American elm, sugar maple, yellow birch, sugarberry, hackberry, green ash, sweetgum, sycamore, pecan",186,92.62,94.13
+MW Broadleaf Forest Central Till Plains,47,500|502|503|504|505|506|509|510|512|513|514|515|519,MW Broadleaf Forest Central Till Central Oak-Hickory,"Black locust, black walnut, bur oak, chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, red maple, oak, southern scrub oak, white oak, red oak, yellow poplar",187,107.48,124.12
+MW Broadleaf Forest Central Till Plains,47,103|163|171|381|383|400|401|402|409|999,MW Broadleaf Forest Central Till Central Pine Forests,"Eastern red cedar, eastern white pine, northern red oak, white ash, oak, pine, scotch pine, Virginia pine",188,31,31
+MW Broadleaf Forest Driftless & Morainal,48,517|700|701|702|703|704|705|706|707|709|904,MW Broadleaf Forest Driftless & Morainal Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, cottonwood, elm, ash, black locust, sugarberry, hackberry, green ash",189,45.89,53.08
+MW Broadleaf Forest Driftless & Morainal,48,512|516|520|800|801|802|805|809|995,MW Broadleaf Forest Driftless & Morainal Maple-Beech-Birch,"Maple, beech, birch, sugar maple, yellow birch",190,62.54,69.58
+MW Broadleaf Forest Driftless & Morainal,48,401|402|500|501|503|504|505|509|513|515|519|962,MW Broadleaf Forest Driftless & Morainal Oak-Hickory,"Bur oak, oak, hickory, white oak, red oak",191,76.56,84.83
+MW Broadleaf Forest Driftless & Morainal,48,101|102|103|171|381|409|999,MW Broadleaf Forest Driftless & Morainal Pine Forests,Jack pine,192,34.31,60.51
+MW Broadleaf Forest Driftless & Morainal,48,900|901|902|905,MW Broadleaf Forest Driftless & Morainal Poplar/Birch,"Aspen, birch",193,43.43,51.99
+MW Broadleaf Forest Driftless & Morainal,48,121|122|125|126|127|128,MW Broadleaf Forest Driftless & Morainal Spruce-Fir,"Black spruce, northern white cedar, tamarack, white spruce",194,39,39
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,125|126|127,MW Broadleaf Forest Great Lakes Morainal & Sands Conifer Bog,"Black spruce, northern white cedar, tamarack, black ash, American elm, red maple",195,36.95,36.95
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,517|700|701|702|703|704|706|707|708|709,MW Broadleaf Forest Great Lakes Morainal & Sands Lowland Hardwoods,"Cottonwood, willow, elm, ash, black locust, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, green ash, willow",196,57.89,57.89
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,121|122|384|512|516|520|800|801|802|805|809|995,MW Broadleaf Forest Great Lakes Morainal & Sands Maple-Beech-Birch,"Balsam fir, black cherry, black walnut, cherry, white ash, yellow poplar, hard maple, basswood, maple, beech, birch, Norway spruce, red maple, sugar maple, yellow birch, white spruce",197,66.78,66.78
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,400|401|402|500|501|502|503|504|505|509|513|515|519|962,MW Broadleaf Forest Great Lakes Morainal & Sands Oak-Hickory,"Black locust, bur oak, chestnut oak, black oak, scarlet oak, easter red cedar, eastern white pine, northern red oak, oak, post oak, blackjack oak, red maple, white oak, hickory",198,77.57,90.52
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,101|102|103|171|381|409|999,MW Broadleaf Forest Great Lakes Morainal & Sands Pine Forests,"Eastern red cedar, eastern white pine, jack pine, pine, red pine, scotch pine",199,37.34,62.71
+MW Broadleaf Forest Great Lakes Morainal & Sands,49,900|901|902,MW Broadleaf Forest Great Lakes Morainal & Sands Poplar/Birch,"Aspen, paper birch",200,37.54,37.54
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,50,101|102|103|122|125|126|127|163|171|201|269|380|381|383|384|385,MW Broadleaf Forest SC Great Lakes & Lake Whittlesey Conifer Forest,"Eastern red cedar, eastern white pine, jack pine, northern white cedar, red pine, scotch pine, white spruce",201,70.56,70.56
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,50,517|600|601|605|700|701|702|703|704|705|706|708|709|904,MW Broadleaf Forest SC Great Lakes & Lake Whittlesey Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, cottonwood, willow, elm, ash, black locust, river birch, sycamore, sugarberry, hackberry, green ash, pecan",202,59.08,83.63
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,50,105|507|511|516|520|707|800|801|802|805|809|995,MW Broadleaf Forest SC Great Lakes & Lake Whittlesey Maple-Birch-Beech,"Black cherry, cherry, white ash, yellow poplar, hard maple, basswood, maple, beech, birch, red maple, sassafras, persimmon, silver maple, American elm, sugar maple, yellow birch",203,71.62,97.97
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,50,400|401|402|409|500|501|502|503|504|505|506|509|510|512|513|515|519|962|999,MW Broadleaf Forest SC Great Lakes & Lake Whittlesey Oak-Hickory,"Black locust, black walnut, bur oak, chestnut oak, black oak, scarlet oak, eastern white pine, northern red oak, white ash, oak, hickory, pine, red maple, white oak, red oak",204,85.56,107.96
+MW Broadleaf Forest SC Great Lakes & Lake Whittlesey,50,900|901|902|905,MW Broadleaf Forest SC Great Lakes & Lake Whittlesey Poplar/Birch,"Aspen, birch, paper birch",205,39.76,39.76
+Maine - New Brunswick Foothills and Lowlands,42,125|126|127,Maine - New Brunswick Foothills and Lowlands Conifer Bog,"White cedar, tamarack",167,58.5,58.5
+Maine - New Brunswick Foothills and Lowlands,42,608|701|704|705|707|708|904,Maine - New Brunswick Foothills and Lowlands Lowland Hardwoods,"Balsam poplar, black ash, american elm, red maple, silver maple, sweetbay, swamp tupelo, sycamore, pecan",168,44.62,44.62
+Maine - New Brunswick Foothills and Lowlands,42,516|520|800|801|802|805|809,Maine - New Brunswick Foothills and Lowlands Northern Hardwoods,"Willow, black cherry, white ash, yellow poplar, basswood, beech",169,59.25,59.25
+Maine - New Brunswick Foothills and Lowlands,42,101|102|103|104|167|401|503|505,Maine - New Brunswick Foothills and Lowlands Pine Forests,"White pine, eastern hemlock, red oak, white ash, jack pine, red oak, pitch oak. Hickory",170,73.56,73.56
+Maine - New Brunswick Foothills and Lowlands,42,900|901|902|903,Maine - New Brunswick Foothills and Lowlands Poplar/Birch,"aspen, gray birch, paper birch",171,50.13,50.13
+Maine - New Brunswick Foothills and Lowlands,42,105|121|122|123|124|384|385|999,Maine - New Brunswick Foothills and Lowlands Spruce-Fir,"Balsam fir, eastern hemlock, larch, Norway spruce, red spruce, white spruce",172,54.97,54.97
+Modoc Plateau,43,180|183|184|260|261|281|367|369|901|953|974,Modoc High Elevation Mixed Conifer,"Western Juniper, white fir, whitebark pine",173,24.5,24.5
+Modoc Plateau,43,221|222|223|368|371|920|922|999,Modoc Mixed Conifer,"California black oak, California mixed conifer, incense cedar, ponderosa pine, western oak",174,41.12,41.12
+Montana Rocky Mountains,44,281,Montana Rockies Lodgepole Pine,Lodgepole pine,175,37.98,37.98
+Montana Rocky Mountains,44,201|221|267|368|703|974|999,Montana Rockies Mixed Conifer,"Cercocarpus (mountain brush), cottonwood, Douglas fir, ponderosa pine",176,36.38,36.38
+Montana Rocky Mountains,44,182|184|185|265|266|268|321|366|367|901,Montana Rockies Spruce / Fir,"Aspen, Engelmann spruce, subalpine fir, juniper, limber pine, pinyon, juniper, Rocky Mountain juniper, whitebark pine",177,24.15,24.15
+Nevada Mountains,51,182|184|185|201|261|265|266|268|365|366|901|974|999,Nevada Mountains Pinyon/ Juniper Mixed Woodlands,"Aspen, cercocarpus (mountain brush) Douglas fir, Engelmann spruce, subalpine fir, fixtail pine, bristlecone pine, juniper, limber pine, pinyon, Rocky Mountain juniper, white fir",206,20.93,20.93
+North Central Great Plains,52,901,North Central Great Plains Aspen,Aspen,207,43.04,43.04
+North Central Great Plains,52,171|220|221|381|402|500|503|509|520|801|802|809|962,North Central Great Plains Oak Woodland,"Black cherry, bur oak, oak, hickory, red maple, white oak, red oak, hickory",208,47.62,47.62
+North Central Great Plains,52,517|700|701|703|704|706|800|904|995|999,North Central Great Plains Riparian Hardwood,"Balsam poplar, black ash, American elm, red maple, cottonwood, willow, elm, ash, black locust, sugarberry, hackberry, green ash",209,50.38,50.38
+Northern Allegheny Plateau,53,900|901|902|905,Northern Allegheny Plateau Aspen-Birch,"Aspen, birch, paper birch",210,58.99,58.99
+Northern Allegheny Plateau,53,102|105|122|123|125|126|127|201|381|383|384|385|999,Northern Allegheny Plateau Northern Conifer,"Black spruce, Douglas fir, eastern hemlock, introduced larch, northern white cedar, tamarack, Norway spruce, red pine, red spruce, scotch pine, white spruce",211,80.89,80.89
+Northern Allegheny Plateau,53,516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809,Northern Allegheny Plateau Northern Hardwood,"Black ash, American elm, red maple, black cherry, cherry, white ash, yellow poplar, cottonwood, elm, ash, black locust, hard maple, basswood, maple, beech, birch, red maple, river birch, sycamore, silver maple, American elm, sugar maple, beech, yellow birch, sugarberry, hackberry, green ash, pecan, willow",212,102.59,104.47
+Northern Allegheny Plateau,53,501|502|503|504|505|506|510|512|513|514|515|519,Northern Allegheny Plateau Oak-Hickory,"Black locust, black walnut,  chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, oak, red maple, southern scrub oak, white oak, red oak, hickory, yellow poplar, northern red oak",213,112.08,112.08
+Northern Allegheny Plateau,53,103|104|167|401|402|409|507,Northern Allegheny Plateau Pine-Hardwood,"Eastern red cedar, eastern white pine, eastern hemlock, northern red oak, white ash, pine, pitch pine, sassafras, persimmon",214,106.14,106.14
+Northern Atlantic Coastal Plain,54,103|506|507|508|511|512|513|516|519|520|705|706|800|801|802|809|901|995,Northern Atlantic Coastal Plain Mixed Hardwood,"Black cherry, black locust, black walnut, cherry, white ash, yellow poplar, maple, beech, birch, red maple, oak, sassafras, persimmon, sugar maple, yellow birch, sugarberry, hackberry, elm, green ash, sweetgum, sycamore, pecan, American elm, white oak, northern red oak",215,82.28,108.21
+Northern Atlantic Coastal Plain,54,500|501|502|503|504|505|510|515,Northern Atlantic Coastal Plain Oak-Hickory,"Eastern red cedar, loblolly pine, oak, pine, shortleaf pine, southern scrub oak, Virginia pine, southern red oak, white pine, red pine, jack pine",216,123.21,123.21
+Northern Atlantic Coastal Plain,54,100|105|163|167|171|400|401|402|404|405|406|409|514|999,Northern Atlantic Coastal Plain Oak-Pine,"Eastern red cedar, loblolly pine, oak, pine, shortleaf pine, southern scrub oak, Virginia pine, southern red oak, white pine, red pine, jack pine",217,60.41,94.43
+Northern Atlantic Coastal Plain,54,602|700|702|703|704|707|708|709,Northern Atlantic Coastal Plain Riverine Hardwood,"Cottonwood, willow, elm, ash, red maple, river birch, sycamore, silver maple, American elm, sweetgum, nuttail oak, willow oak",218,85.21,85.21
+Northern Atlantic Coastal Plain,54,141|142|160|161|162|403|407,Northern Atlantic Coastal Plain Southern Pine,"Loblolly pine, longleaf pine, shortleaf pine, slash pine",219,55.92,92.26
+Northern Atlantic Coastal Plain,54,166|600|601|605|606|607|608|609|701,Northern Atlantic Coastal Plain Swamp Hardwood & Cypress,"Atlantic white cedar, bald cypress, pond cypress, water tupelo, black ash, American elm, red maple, oak, gum, overcup oak, water hickory, pond pine, swamp chestnut oak, cherrybark oak sweetbay, swamp tupelo",220,102.71,102.71
+Northern California Coast,55,201|260|261|301|305|341|361|363|368|371|911|941|942|943|961|999,Northern California Coast Redwood/Douglas-fir Mixed Conifer,"Bishop pine, California laurel,  Douglas fir, western hemlock, giant chinkapin, knobcone pine, Pacific madrone, red alder, redwood, Sitka spruce, tanoak, white fir",221,152.72,205.15
+Northern California Coast,55,180|709|912|920|922|924|925|931|932|955,Northern California Coast Mixed Oak Woodland,"Bigleaf maple, blue oak, California black oak, California live oak, cottonwood, willow, pinyon, juniper, western oak",222,114.38,114.38
+Northern Great Plains,56,517|700|701|703|800|962,Northern Great Plains Hardwoods,"Black ash, American elm, red maple, cottonwood, elm, ash, black locust, maple, beech, birch",223,30.92,30.92
+Northern Great Plains,56,182|184|201|220|221|281|366|500|503|509|520|706|809|901|902|999,Northern Great Plains Ponderosa Pine,"Aspen, bur oak, juniper, oak, hickory, ponderosa pine, red maple, Rocky Mountain juniper, sugarberry, hackberry, elm, ash, green ash, white oak, red oak, hickory",224,18.21,18.21
+Northern Rocky Mountains,57,182|201|221|321|368|703|709,Northern Rockies Mixed Conifer,"Cottonwood, willow, Douglas fir, ponderosa pine, Rocky Mountain juniper, western larch",225,42.63,42.63
+Northern Rocky Mountains,57,265|266|267|301|304|901|902|999,Northern Rockies Spruce / Fir,"Aspen, Engelmann spruce, subalpine fir, grand fir, paper birch, western hemlock, western red cedar",226,31.29,31.29
+Northern Rocky Mountains,57,241|268|270|281|366|367,Northern Rockies Subalpine Mixed Conifer,"Lodgepole pine, mountain hemlock, subalpine fir, western white pine, whitebark pine",227,30.83,30.83
+Northwest Cascades,58,241|260|261|262|263|264|265|266|268|270|271|281|320|321|367|900|901|902,Northwest Cascade High Elevation Conifer,"Engelmann spruce, lodgepole pine, mountain hemlock, noble fir, red fir, subalpine fir, white fir, whitebark pine",228,68.89,98.27
+Northwest Cascades,58,180|201|202|221|222|224|267|301|304|305|368|369|703|704|709|722|911|912|920|923|941|943|961|975|999,Northwest Cascade Mixed Conifer,"Bigleaf maple, cottonwood, willow, Douglas fir, grand fir, intermountain maple, pinyon, juniper, ponderosa pine, red alder, western hemlock, western red cedar",229,64.57,120.77
+Northwestern Basin and Range,59,180|184|185|221|367|369|901|922|974|999,Northwest Basin and Range Mixed Conifer,"Aspen, California black oak, cercocarpus (mountain brush), juniper, pinyon, ponderosa pine, western juniper, whitebark pine",230,16.25,16.25
+Okanogan Highland,60,201|241|267|301|304|320|321|703|709|911|962|999,Okanogan Douglas-fir Mixed Conifer,"Cottonwood, willow, Douglas fir, grand fir, red alder, western hemlock, western larch, western red cedar, western white pine",231,65.18,80.49
+Okanogan Highland,60,221,Okanogan Ponderosa,Ponderosa pine,232,45.66,54.17
+Okanogan Highland,60,260|265|266|268|270|281|900|901|902|975,Okanogan Subalpine Mixed Conifer,"Aspen, birch, Engelmann spruce, subalpine fir, fir, spruce, mountain hemlock, intermountain maple, lodgepole pine, mountain hemlock, paper birch",233,62.66,62.66
+Oregon and Washington Coast,61,180|201|202|241|260|263|264|267|268|270|271|281|301|304|305|341|368|703|704|709|911|912|920|923|941|942|943|961|962|975|999,Northwest Coast Range Forest,"Alaska yellow cedar, bigleaf maple, California laurel, cottonwood, willow, Douglas fir, fir, srpuce, mountain hemlock, giant chinkapin, grand fir, intermountain maple, lodgepole pine, mountain hemlock, noble fir, Oregon white oak, Pacific madrone, Pacific silver fir, pinyon, juniper, Port Orford cedar, red alder, redwood, Sitka spruce, subalpine fir, tanoak, western hemlock, western oak, western red cedar, western white pine, willow",234,74.51,119.91
+Ouachita Mixed Forest,62,161|162|999,Ouachita Mixed Forest-Meadow Ouachita Mountains Loblolly-Shortleaf,"Loblolly pine, shortleaf pine",235,41.77,62.26
+Ouachita Mixed Forest,62,600|601|602|607|608|702|703|705|706,Ouachita Mixed Forest-Meadow Ouachita Mountains Lowland Hardwoods,"Bald cypress, water tupelo, cottonwood, oak, gum, cypress,  river birch, sycamore, sugarberry, hackberry, elm, green ash, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak, pecan, American elm",236,60.54,60.54
+Ouachita Mixed Forest,62,507|508|519|520,Ouachita Mixed Forest-Meadow Ouachita Mountains Mixed Upland Hardwoods,"red maple, oak, saasafras, persimmon, sweetgum, yellow poplar",237,37.79,37.79
+Ouachita Mixed Forest,62,500|503|504|505,Ouachita Mixed Forest-Meadow Ouachita Mountains Oak-Hickory,"Northern red oak, oak, hickory, white oak, red oak",238,49.16,49.16
+Ouachita Mixed Forest,62,163|171|402|404|406|501|514,Ouachita Mixed Forest-Meadow Ouachita Mountains Oak-Pine,"Eastern red cedar, loblolly pine, eastern red cedar, post oak, blackjack oak,  shortleaf pine, oak, southern scrub oak, Virginia pine",239,42.76,42.76
+Ozark Broadleaf Forest-Meadow Boston Mountains,63,161|162|999,Ozark Broadleaf Forest-Meadow Boston Mountains Loblolly-Shortleaf,"Loblolly pine, shortleaf pine",240,74.16,74.16
+Ozark Broadleaf Forest-Meadow Boston Mountains,63,600|602|605|608|702|705|706|707|805,Ozark Broadleaf Forest-Meadow Boston Mountains Lowland Hardwoods,"Hard maple,  basswood, oak, gum, cypress, overcup oak, water hickory, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak, pecan",241,84.66,84.66
+Ozark Broadleaf Forest-Meadow Boston Mountains,63,506|507|508|520,Ozark Broadleaf Forest-Meadow Boston Mountains Mixed Upland Hardwoods,"red maple, oak, saasafras, persimmon, sweetgum, yellow poplar",242,31.78,31.78
+Ozark Broadleaf Forest-Meadow Boston Mountains,63,500|503|504|505,Ozark Broadleaf Forest-Meadow Boston Mountains Oak-Hickory,"Northern red oak, oak, hickory, white oak, red oak",243,75.17,75.17
+Ozark Broadleaf Forest-Meadow Boston Mountains,63,163|171|402|404|406|501|514,Ozark Broadleaf Forest-Meadow Boston Mountains Oak-Pine,"Eastern red cedar, loblolly pine, eastern red cedar, post oak, blackjack oak,  shortleaf pine, oak, southern scrub oak, Virginia pine",244,55.63,55.63
+Prairie Parkland Central Till Plains & Grand Prairies,64,600|601|608|609|700|701|702|703|704|708|709,Prairie Parkland Central Till Plains & Grand Prairies Lowland Hardwoods,"Black ash,  American elm, red maple, cottonwood, willow, elm, ash, oak, gum, cypress, river birch, sycamore, willow",245,75.96,75.96
+Prairie Parkland Central Till Plains & Grand Prairies,64,705|706|707|800|801|802|805|900|901,Prairie Parkland Central Till Plains & Grand Prairies Maple-Beech-Birch,"Aspen, black cherry, hard maple, basswood, maple, beech, birch, silver maple, American elm, sugar maple, yellow birch, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",246,76.72,89.86
+Prairie Parkland Central Till Plains & Grand Prairies,64,507|511|512|513|516|517|520|809|962|995,Prairie Parkland Central Till Plains & Grand Prairies Mixed Upland Hardwoods,"Black locust, black walnut, cherry, white ash, yellow poplar, elm, ash, red maple, sassafras, persimmon",247,53.6,67.1
+Prairie Parkland Central Till Plains & Grand Prairies,64,500|502|503|504|505|514|515|519,Prairie Parkland Central Till Plains & Grand Prairies Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, red maple, southern scrub oak, white oak, red oak",248,82.48,87.96
+Prairie Parkland Central Till Plains & Grand Prairies,64,101|102|103|163|171|221|381|400|402|409|501|509|510|999,Prairie Parkland Central Till Plains & Grand Prairies Oak-Pine,"Bur oak, eastern red cedar, eastern white pine, pine, post oak, blackjack oak, red pine, scarlet oak, scotch pine",249,49.35,49.35
+Prairie Parkland North Central Plains,65,126|700|701|703|704|705|706|709|802,Prairie Parkland North Central Plains Lowland Hardwoods,"Black ash, American elm, red maple, black cherry,  cottonwood, willow, elm, ash, sugarberry, hackberry, green ash, sycamore, pecan, American elm, tamarack",250,70.57,70.57
+Prairie Parkland North Central Plains,65,707|800|801|805|901|995,Prairie Parkland North Central Plains Maple-Beech-Birch,"Aspen, hard maple, basswood, maple, beech, birch, silver maple, American elm, sugar maple, yellow birch",251,78.79,78.79
+Prairie Parkland North Central Plains,65,512|517|520|809,Prairie Parkland North Central Plains Mixed Upland Hardwoods,"Black walnut, elm, ash, black locust, red maple",252,62.57,62.57
+Prairie Parkland North Central Plains,65,102|103|171|402|500|503|504|505|509|962|999,Prairie Parkland North Central Plains Oak-Hickory,"Bur oak, eastern red cedar, eastern white pine, northern red oak, oak, hickory,  red pine, white oak, red oak",253,75.65,75.65
+Prairie Parkland Red River Valley,66,517|700|701|703|704|706|709|802|904,Prairie Parkland Red River Valley Lowland Hardwoods,"Balsam poplar, black ash, American elm, red maple, black cherry, cottonwood, willow, elm, ash, black locust, sugarberry, hackberry, green ash, willow",254,63.44,63.44
+Prairie Parkland Red River Valley,66,122|520|800|801|805|809|901|995,Prairie Parkland Red River Valley Maple-Beech-Birch,"Aspen, hard maple, basswood, maple, beech, birch, red maple, sugar maple, yellow birch, white spruce",255,50.94,50.94
+Prairie Parkland Red River Valley,66,101|500|503|509|999,Prairie Parkland Red River Valley Oak-Hickory,"Bur oak, jack pine, oak, hickory, white oak, red oak",256,84.41,84.41
+Puget Trough,67,201|260|264|270|281|301|304|305|703|704|709|722|900|902|911|912|920|923|961|962|999,Puget Trough Mixed Conifer,"Aspen , birch, bigleaf maple, cottonwood, willow, Douglas fir, fir, spruce, mountain hemlock, lodgepole pine, Oregon ash, Oregon white oak, Pacific madrone, Pacific silver fir, paper birch, red alder, Sitka spruce, western hemlock, western oak, western red cedar",257,125.85,125.85
+SE Middle Mixed Forest Arkansas Valley,68,601|602|605|608|708,SE Middle Mixed Forest Arkansas Valley Cypress & Swamp Hardwood,"Overcup oak , water hickory, red maple, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak",258,72.48,72.48
+SE Middle Mixed Forest Arkansas Valley,68,161|162|999,SE Middle Mixed Forest Arkansas Valley Loblolly-Shortleaf,"Loblolly pine, shortleaf pine",259,52.64,52.64
+SE Middle Mixed Forest Arkansas Valley,68,500|503|504|505|514,SE Middle Mixed Forest Arkansas Valley Oak-Hickory,"Northern red oak, oak, hickory, southern scrub oak, white oak, red oak",260,64.34,64.34
+SE Middle Mixed Forest Arkansas Valley,68,171|402|404|406|501,SE Middle Mixed Forest Arkansas Valley Oak-Pine,"Eastern red cedar, loblolly pine, post oak, blackjack oak,  shortleaf pine, oak",261,46.54,46.54
+SE Middle Mixed Forest Arkansas Valley,68,600|702|703|704|705|706|707|709,SE Middle Mixed Forest Arkansas Valley Riverine Hardwood,"Cottonwood, willow, oak, gum, cypress, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, elm, green ash, pecan",262,46.9,46.9
+SE Middle Mixed Forest Arkansas Valley,68,507|508|512|513|520,SE Middle Mixed Forest Arkansas Valley Upland Hardwood,"Black locust, black walnut, sassafras, persimmon, sweetgum, yellow poplar",263,34.81,34.81
+SE Middle Mixed Forest Cumberland Plateau & Valley,69,141|161|162|163|167|171|400|401|402|403|404|405|406|407|409|514|999,SE Middle Mixed Forest Cumberland Plateau & Valley Loblolly-Shortleaf-Oak,"Eastern red cedar, eastern white pine, northern red oak, white ash, loblolly pine, longleaf pine, oak, pine, shortleaf pine, Virginia pine, southern red oak",264,50.7,74.22
+SE Middle Mixed Forest Cumberland Plateau & Valley,69,519|600|601|602|607|608|700|702|703|704|705|706|708|801|805,SE Middle Mixed Forest Cumberland Plateau & Valley Lowland Hardwood,"Bald cypress, water tupelo, elm, ash, cottonwood, hard maple, basswood, oak, gum, cypress,  red maple, river birch, sycamore, sugar maple, beech, sugarberry, hackberry, elm, green ash, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo,  sweetgum, nuttail oak, willow oak, pecan, American elm, willow",265,87.92,87.92
+SE Middle Mixed Forest Cumberland Plateau & Valley,69,500|501|502|503|504|505|510|515,SE Middle Mixed Forest Cumberland Plateau & Valley Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, scarlet oak, white oak, red oak, black locust",266,94.6,110.49
+SE Middle Mixed Forest Cumberland Plateau & Valley,69,104|105|506|507|508|511|512|513|520|995,SE Middle Mixed Forest Cumberland Plateau & Valley Upland Hardwood,"Black locust, eastern hemlock, eastern whitepine, sassafras, persimmon, sweetgum, yellow poplar, white oak, northern red oak",267,53.73,68.16
+SE Middle Mixed Forest Piedmont,70,605|607|608|609,SE Middle Mixed Forest Piedmont Cypress & Swamp Hardwood,"Bald cypress, water tupelo, overcup oak, water hickory, sweetbay, swamp tupelo, red maple",268,82.21,106.72
+SE Middle Mixed Forest Piedmont,70,100|103|141|142|161|162|163|164|165|167|171|400|401|402|403|404|405|406|407|409|514|999,SE Middle Mixed Forest Piedmont Loblolly-Shortleaf-Oak,"Eastern red cedar, eastern white pine, northern red oak, white ash, loblolly pine, longleaf pine, oak, pine, pitch pine, shortleaf pine, Table Mountain pine, Virginia pine, southern red oak, white pine, red pine, jack pine",269,54.37,75.15
+SE Middle Mixed Forest Piedmont,70,500|501|502|503|504|505|510|515,SE Middle Mixed Forest Piedmont Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, post oak, blackjack oak, scarlet oak, white oak, red oak, hickory",270,102.56,106.82
+SE Middle Mixed Forest Piedmont,70,168|517|600|601|602|700|702|703|704|707|708|709,SE Middle Mixed Forest Piedmont Riverine Hardwood,"Elm, ash, cottonwood, oak, gum, cypress, red maple, river birch, sycamore, swamp chestnut oak, cherrybark oak, sweetgum, nuttail oak, willow oak, willow",271,74.07,94.41
+SE Middle Mixed Forest Piedmont,70,104|105|506|507|508|511|512|513|516|519|520|705|706|901|995,SE Middle Mixed Forest Piedmont Upland Hardwood,"Aspen, black locust, black walnut, eastern hemlock, eastern white pine, eastern hemlock, red maple, oak, sassafras, persimmon, sugarberry,  hackberry, elm, green ash, sweetgum, yellow poplar, sycamore, pecan, American elm, white oak, northern red oak",272,67.17,82.59
+SE Middle Mixed Forest Western Mid Coastal Plains,71,601|602|605|607|608|708,SE Middle Mixed Forest Western Mid Coastal Plains Cypress & Swamp Hardwood,"Bald cypress, water tupelo, overcup oak, water hickory, red maple, swamp chestnut oak, cherrybark oak, sweetbay, swamp tupelo, sweetgum, nuttail oak, willow oak",273,86.34,134.32
+SE Middle Mixed Forest Western Mid Coastal Plains,71,141|142|161|162|999,SE Middle Mixed Forest Western Mid Coastal Plains Loblolly-Shortleaf,"Loblolly pine, longleaf pine, shortleaf pine, slash pine",274,55.89,101.39
+SE Middle Mixed Forest Western Mid Coastal Plains,71,500|503|504|505|515,SE Middle Mixed Forest Western Mid Coastal Plains Oak-Hickory,"Chestnut oak, black oak, scarlet oak, northern red oak, oak, hickory, white oak, red oak",275,80.65,111.36
+SE Middle Mixed Forest Western Mid Coastal Plains,71,171|402|403|404|406|407|501|509|514,SE Middle Mixed Forest Western Mid Coastal Plains Oak-Pine,"Bur oak, eastern red cedar, loblolly pine, longleaf pine, oak, post oak, black jack oak, shortleaf pine, slash pine, southern scrub oak",276,68.51,107.26
+SE Middle Mixed Forest Western Mid Coastal Plains,71,600|702|703|704|705|706|707,SE Middle Mixed Forest Western Mid Coastal Plains Riverine Hardwood,"Cottonwood, oak, gum, cypress, river birch, sycamore, silver maple, American elm, sugarberry, hackberry, elm, green ash, pecan, willow",277,65.66,91.89
+SE Middle Mixed Forest Western Mid Coastal Plains,71,506|507|508|513|519|520|995,SE Middle Mixed Forest Western Mid Coastal Plains Upland Hardwood,"Black locust, red maple, oak, sassafras, persimmon, sweetgum, yellow poplar, white oak, northern red oak",278,50.33,70.92
+Sierra Nevada,72,241|260|261|262|270|281|365|366|367|901,Sierra High Elevation Conifer,"Aspen, fir, spruce, mountain hemlock, foxtail pine, bristelcone pine, limber pine, lodgepole pine, red fir, western white  pine, white fir, whitebark pine",279,133.84,133.84
+Sierra Nevada,72,201|221|225|342|368|371|911|941|951|961|999,Sierra Mixed Conifer,"California mixed conifer, Douglas fir, giant sequoia, Jeffrey pine, Pacific madrone, red alder, tanoak",280,79.47,145.39
+Sierra Nevada,72,223|361|703|709|912|920|921|922|924|925|931|932|942|955,Sierra Mixed Oak Woodland,"Bigleaf maple, blue oak, California black oak, California laurel, California live oak, cottonwood, willow, gray pine,  knobcone pine, western oak",281,83.11,83.11
+Sierra Nevada,72,180|183|184|185|369|953|974,Sierra Pinyon / Juniper Woodland,"Cercocarpus (mountain brush), juniper, pinyon",282,18.4,18.4
+Sierra Nevada Foothills,73,180|184|185|221|223|371|703|709|911|920|921|922|924|932|942|955|974|999,Sierra Foothill Mixed Oak Woodland,"Blue oak, California black oak, California laurel, California mixed conifer, cercocarpus (mountain brush), cottonwood, willow, gray pine, juniper, pinyon, ponderosa pine, western oak",283,33.55,33.55
+Snake River Basin,74,180|184|185|201|266|268|281|369|703|901|974|975|999,Snake River Basin Mixed Woodland,"Aspen, cercocarpus (mountain brush) Douglas fir, Engelmann spruce, subalpine fir, intermountain maple, juniper, lodgepole pine, pinyon, western juniper, cottonwood",284,16.38,16.38
+Southern Allegheny Plateau,76,605|608|701|702|703|704|705|706|708|709,Southern Allegheny Plateau Lowland Hardwoods,"Black ash , American elm, red maple, cottonwood, willow, overcup oak, water hickory, red maple, river birch, sycamore, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, red maple, pecan, American elm",288,71.85,71.85
+Southern Allegheny Plateau,76,101|104|161|162|163|167|171|401|402|404|405|406|409,Southern Allegheny Plateau Mixed Pine-Hardwoods,"Eastern red cedar, eastern white pine, eastern hemlock, northern red oak, white ash, jack pine, loblolly pine, pine, pitch pine, shortleaf pine, oak, Virgina pine, southern red oak",289,73.68,73.68
+Southern Allegheny Plateau,76,102|103|105|122|269|381|384|385|999,Southern Allegheny Plateau Northern Conifer,"Blue spruce, eastern hemlock, eastern white pine, introduced larch, Norway spruce, red pine, scotch pine, white spruce",290,50.24,50.24
+Southern Allegheny Plateau,76,501|502|503|504|505|510|512|515|519,Southern Allegheny Plateau Oak-Hickory,"Black walnut, chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, red maple, oak, white oak, hickory",291,112.48,119.13
+Southern Allegheny Plateau,76,506|507|508|511|513|516|517|520|707|800|801|802|805|809|901|995,Southern Allegheny Plateau Upland Hardwoods,"Aspen, black cherry, black locust, cherry, white ash, yellow poplar, elm, ash, hard maple, basswood, maple, beech, birch, red maple, sassafras, persimmon, silver maple, American elm, sugar maple, yellow birch, sweetgum, white oak, northern red oak",292,81.1,96.54
+Southern California Coast,77,703|920|931|942|951|993|999,Southern California Coast Oak Woodlands,"California laurel, coast live oak, cottonwood, eucalyptus, western oak group",293,70.98,70.98
+Southern California Mountains,78,180|183|184|185|221|223|261|281|366|368|369|371|911|953|974|999,Southern California Mixed Conifer,"California mixed conifer, cercocarpus (mountain brush), juniper, limber pine, lodgepole pine, pinyon, ponderosa pine, red alder, western juniper, white fir",294,17.16,17.16
+Southern California Mountains,78,722|920|922|924|926|931|932|972,Southern California Oak Woodlands,"Blue oak, California black oak, coast live oak, evergreen oak, Oregon ash",295,89.52,89.52
+Southern Cascades,79,180|183|184|241|261|262|268|281|365|367|369,Southern Cascade High Elevation Conifer,"Foxtail pine, bristlecone pine, lodgepole pine, pinyon, juniper, red fir, subalpine fir, western juniper, western white pine, white fir ",296,61,61
+Southern Cascades,79,201|202|221|222|223|224|260|267|270|304|305|341|361|368|371|901|911|941|942|943|951|961|999,Southern Cascade Mixed Conifer,"Aspen, California laurel, California mixed conifer, Douglas fir, fir, spruce, mountain hemlock, giant chinkapin, grand fir, incense cedar, knobcone pine, mountain hemlock, Pacific madrone, ponderosa pine, Port Orford cedar, red alder, sugar pine, tanoak, western red cedar",297,81.81,121.77
+Southern Cascades,79,703|709|722|912|920|921|922|923|924|925|931|932|953|955|974,Southern Cascade Mixed Oak Woodland,"Bigleaf maple, blue oak, California black oak, cercocarpus (mountain brush),  cottonwood, willow, gray pine, Oregon ash, Oregon white oak, western oak",298,63.94,108.81
+Southern Rockies Front Range,80,901,Front Range Aspen,Aspen,299,33.28,33.28
+Southern Rockies Front Range,80,265|266|268|281|365|366,Front Range High Elevation Conifer,"Engelmann spruce, subalpine fir, foxtail pine, bristlecone pine, limber pine, lodgepole pine",300,59.88,59.88
+Southern Rockies Front Range,80,182|184|185|201|221|269|703|971|975|999,Front Range Mixed Conifer,"Blue spruce, cottonwood, deciduous oak, Douglas fir, intermountain maple, juniper, pinyon, ponderosa pine, Rocky Mountain juniper",301,30.49,30.49
+Southern Rocky Mountains,81,201|221|703|709|971|976|999,Southern Rockies Mixed Conifer,"Cottonwood, deciduous oak, Douglas fir, ponderosa pine",302,39.04,39.04
+Southern Rocky Mountains,81,182|184|185,Southern Rockies Pinyon / Juniper Woodland,"Juniper, pinyon, Rocky Mountain juniper",303,18.89,18.89
+Southern Rocky Mountains,81,261|265|266|268|269|281|365|366|368|901,Southern Rockies Spruce-fir,"Aspen, spruce, fir",304,55.33,55.33
+Southwest High Plains,82,182|184|185|501|503|514|515|520|600|972|976,Southwest High Plains Juniper Mixed Woodland,"Chestnut oak, black oak, scarlet oak, evergreen oak, juniper, post oak, blackjack oak, southern scrub oak, white oak, red oak, hickory",305,12.92,12.92
+Southwest High Plains,82,973|999,Southwest High Plains Mesquite Woodland,Mezquite,306,7.18,7.18
+Southwest High Plains,82,507|608|703|704|705|706,Southwest High Plains Riparian Hardwoods,"Sassafras, persimmon, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, red maple, sycamore, pecan, American elm, willow",307,11.02,11.02
+Southwest Plateau,83,507|513|602|608|704|705|706|962|971|976,Southwest Plateau Hardwoods,"Deciduous oak, sassafras, persimmon, sugarberry, hackberry, elm, green ash, sweetbay, swamp tupelo, red maple, sycamore, pecan, American elm, willow",308,11.5,11.5
+Southwest Plateau,83,184|185|501|520|972,Southwest Plateau Juniper Woodland,"Evergreen oak, juniper, pinyon, post oak, blackjack oak",309,18.31,18.31
+Southwest Plateau,83,973|999,Southwest Plateau Mesquite,Mesquite,310,9.24,9.24
+Southwest Plateau,83,514,Southwest Plateau Scrub Oak,Southern scrub oak,311,24.39,24.39
+Southwestern Desert,84,180|184|185|221|261|703|706|962|971|972|973|974|976|999,Southwest Desert Pinyon/Juniper Woodland,"Mesquite, cercocarpus (mountain brush), deciduous oak, evergreen oak, juniper, pinyon, ponderosa pine, sugarberry, hackberry, elm, green ash, white fir, cottonwood",312,12.16,12.16
+Southwestern Rocky Mountains,85,901,Southwestern Rockies Aspen,Aspen,313,56.54,56.54
+Southwestern Rocky Mountains,85,201|221|269|703|962|971|976|999,Southwestern Rockies Mixed Forest,"Blue spruce, cottonwood, deciduous oak, Douglas fir, ponderosa pine",314,23.28,23.28
+Southwestern Rocky Mountains,85,182|184|185,Southwestern Rockies Pinyon / Juniper Woodland,"Juniper, pinyon",315,21.07,21.07
+Southwestern Rocky Mountains,85,261|265|266|268|281|362|365|366,Southwestern Rockies Spruce-fir,"Engelmann spruce, subalpine fir, lodgepole pine, white fir",316,80.69,80.69
+St Lawrence & Mohawk Valley,86,900|901|902|903,St Lawrence & Mohawk Valley Aspen-Birch,"Aspen, birch, gray birch, paper birch",317,46.34,46.34
+St Lawrence & Mohawk Valley,86,102|103|104|105|121|122|123|124|126|127|171|381|384|385|401|402|409|503|505|509|513|519|999,St Lawrence & Mohawk Valley Northeast Conifer,"Balsam fir, black locust, bur oak, eastern hemlock, eastern red cedar, eastern white pine, northern red oak, white ash, northern white cedar, pine, red maple, oak, red pine, red spruce, balsam fir, scotch pine, white oak, red oak, hickory, white spruce",318,75.47,75.47
+St Lawrence & Mohawk Valley,86,516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809|904,St Lawrence & Mohawk Valley Northern Hardwood,"Balsam poplar, black ash, American elm, red maple, black cherry, cherry, white ash, yellow poplar, cottonwood, willow, elm, ash, black locust, hard maple, basswood, maple, beech, birch, river birch, sycamore, silver maple, sugar maple, beech, yellow birch, sugarberry, hackberry, green ash, pecan, willow",319,81.47,84.02
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,601|602|605|607|608,Subtropical Prairie Parkland Gulf & Oak Prairie Cypress & Swamp Hardwood,"Sweetbay, swamp tupelo, red maple, sweetgum, nuttail oak, willow oak",320,81.56,122.64
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,500|503,Subtropical Prairie Parkland Gulf & Oak Prairie Oak-Hickory,"Hickory, white oak, red oak",321,76.64,76.64
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,142|161|162|171|402|404|406|407|501|509|514|999,Subtropical Prairie Parkland Gulf & Oak Prairie Oak-Pine,"Bur oak, eastern red cedar, loblolly pine, post oak, blackjack oak, shortleaf pine, southern scrub oak",322,65.53,129.73
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,600|702|704|705|706|709,Subtropical Prairie Parkland Gulf & Oak Prairie Riverine Hardwood,"Oak, gum, cypress, sugarberry, hackberry, elm, green ash, sycamore, pecan, American elm",323,51.61,75.45
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,507|508|512|520|995,Subtropical Prairie Parkland Gulf & Oak Prairie Upland Hardwood,"sassafras, persimmon, sweetgum, yellow poplar",324,50.44,117.85
+Subtropical Prairie Parkland Gulf & Oak Prairie,87,184|973|976,Subtropical Prairie Parkland Gulf & Oak PrairieMesquite-Juniper Woodlands,"Juniper, mesquite",325,11.72,11.72
+Tonto Transition,88,201|362|368|962|971,Tonto Transition Mixed Conifer,"Deciduous oak woodland, Douglas-fir, southwestern white pine",326,28.8,28.8
+Tonto Transition,88,706|972,Tonto Transition Oak Woodland,"Evergreen oak woodland, sugarberry, hackberry,elm, green ash",327,26.11,26.11
+Tonto Transition,88,182|184|185|703|973|976,Tonto Transition Pinyon / Juniper Woodland,"Cottonwood, juniper, mesquite, pinyon",328,17.94,17.94
+Tonto Transition,88,221|999,Tonto Transition Ponderosa Pine,Ponderosa pine,329,50.54,50.54
+Utah Mountains,89,901,Utah Mountains Aspen,Aspen,330,39.45,39.45
+Utah Mountains,89,201|221|269|999,Utah Mountains Mixed Conifer,"Blue spruce, Douglas fir, ponderosa pine",331,34.74,34.74
+Utah Mountains,89,703|971|975,Utah Mountains Oak Woodlands,"Cottonwood, deciduous oak, intermountain maple",332,21.52,21.52
+Utah Mountains,89,182|184|185|974,Utah Mountains Pinyon / Juniper Woodland,"Cercocarpus (mountain brush), juniper, pinyon, Rocky Mountain juniper",333,25.37,25.37
+Utah Mountains,89,261|265|266|268|365|366,Utah Mountains Spruce-fir,"Engelmann spruce, subalpine fir, limber pine, white fir",334,46.49,46.49
+Wasatch Range,90,901,Wasatch Aspen,Aspen,335,23.29,23.29
+Wasatch Range,90,201|221|269|976|999,Wasatch Douglas-fir,"Blue spruce, Douglas fir",336,58.56,58.56
+Wasatch Range,90,703|706|971|975,Wasatch Oak Woodland,"Cottonwood, deciduous oak, intermountain maple, sugarberry, hackberry, elm, green ash",337,21.38,21.38
+Wasatch Range,90,182|184|185|974,Wasatch Pinyon / Juniper Woodland,"Cercocarpus (mountain brush), juniper, pinyon, Rocky Mountain juniper",338,20.15,20.15
+Wasatch Range,90,261|265|266|268|281|366|367,Wasatch Spruce / Fir,"Engelmann spruce, subalpine fir, limber pine, lodgepole pine, white fir, whitebark pine",339,39.75,39.75
+Western Allegheny Plateau,91,507|511|516|517|520|608|701|702|703|704|705|706|707|708|709|800|801|802|805|809,Western Allegheny Plateau Mixed Hardwood,"Black ash, American elm, red maple, black cherry, cherry, white ash, yellow poplar, cottonwood, willow, elm, ash, black locust, hard maple, basswood, maple, beech, birch, red maple, river birch, sycamore, sassafras, persimmon, silver maple, American elm, sugar maple, beech, yellow birch, sugarberry, hackberry, green ash, sweetbay, swamp tupelo, pecan, American elm",340,97.85,109.3
+Western Allegheny Plateau,91,102|103|105|122|269|381|384|401|402|901|903|905|999,Western Allegheny Plateau Mixed Pine-Hardwood,"Aspen, blue spruce, eastern hemlock, eastern red cedar, eastern white pine, northern red oak, white ash, gray birch, Norway spruce, pin cherry, red pine, scotch pine, white spruce",341,59.53,59.53
+Western Allegheny Plateau,91,501|503|504|505|506|512|513|515|519,Western Allegheny Plateau Oak-Hickory,"Black locust, black walnut, chestnut oak, black oak, scarlet oak, northern red oak, post oak, blackjack oak, red maple, oak, white oak, red oak, hickory, yellow poplar, northern red oak",342,110.27,120.35
+Western Basin and Range,92,180|182|183|184|185|201|223|225|261|265|266|281|365|366|367|369|371|901|953|971|974|999,Western Basin and Range Pinyon/ Juniper Mixed Woodland,"Aspen, California mixed conifer, cerocarpus (mountain brush), foxtail pine, bristlecone pine, Jeffrey pine, juniper, limber pine, lodgepole pine, pinyon, western juniper, white fir, whitebark pine",343,13.12,13.12
+Western Great Plains,93,402|503|517|700|701|703|704|800|801|809|962|995,Western Great Plains Hardwoods,Cottonwood,344,46.8,46.8
+Western Great Plains,93,122|171|182|184|201|220|221|366|500|509|520|706|901|902|999,Western Great Plains Ponderosa Pine,"Aspen, Douglas fir, limber pine, ponderosa pine, Rocky Mountain juniper",345,23.2,23.2
+White Mountains,94,503|505|515|608|701|702|703|704|708|904,White Mountains Mixed Hardwoods,"Balsam poplar, black ash, American elm, red maple, chestnut oak, black oak, scarlet oak, cottonwood, northern red oak, river birch, sycamore, sweetbay, swamp tupelo, white oak, red oak, hickory, willow",346,48.74,48.74
+White Mountains,94,105|121|122|123|124|125|126|127|900|901|902|903|999,White Mountains Northeast Spruce-Fir,"Aspen, birch, balsam fir, black spruce, eastern hemlock, gray birch, northern white cedar, paper birch, red spruce, balsam fir, tamarack, white spruce",347,49.32,53.31
+White Mountains,94,516|520|800|801|802|805|809,White Mountains Northern Hardwood,"Black cherry, cherry, white ash, yellow poplar, hard maple, basswood, maple, beech, birch, red maple, sugar maple, yellow birch",348,70.44,74.7
+White Mountains,94,102|103|104|401|409,White Mountains Northern Pine Forest,"Eastern white pine, eastern hemlock, northern red oak, white ash, pine, red pine",349,93.56,93.56
+White Mountains - San Francisco Peaks - Mongollon,95,201|261|265|266|269|362|368|901|962|971|975,White Mountains - San Francisco Peaks - Mongollon Mixed Conifer,"Deciduous oak woodland, Douglas-fir, southwestern white pine",350,61.73,61.73
+White Mountains - San Francisco Peaks - Mongollon,95,706|972,White Mountains - San Francisco Peaks - Mongollon Oak Woodland,"Evergreen oak woodland, sugarberry, hackberry,elm, green ash",351,16.14,16.14
+White Mountains - San Francisco Peaks - Mongollon,95,182|184|185|703|973|976,White Mountains - San Francisco Peaks - Mongollon Pinyon / Juniper Woodland,"Cottonwood, juniper, mesquite, pinyon",352,15.73,15.73
+White Mountains - San Francisco Peaks - Mongollon,95,221|999,White Mountains - San Francisco Peaks - Mongollon Ponderosa Pine,Ponderosa pine,353,54.19,54.19
+Willamette Valley,96,201|202|221|260|267|301|304|368|381|703|704|709|722|911|912|920|922|923|961|999,Willamette Woodlands,"Bigleaf maple, California black oak, cottonwood, willow, Douglas fir, fir, spruce, mountain hemlock, grand fir, Oregon ash, Oregon white oak, Pacific madrone, ponderosa pine, Port Orford cedar, red alder, scotch pine, western hemlock, western oak, western red cedar",354,110.67,110.67
+Yellowstone / Bighorn,97,201|265|974|999,Yellowstone / Bighorn Douglas-fir / Spruce,"Douglas fir, Engelmann spruce",355,31.46,31.46
+Yellowstone / Bighorn,97,281|901,Yellowstone / Bighorn Lodgepole,"Aspen, lodgepole pine",356,66,66
+Yellowstone / Bighorn,97,182|184|221|703,Yellowstone / Bighorn Mixed Woodland,"Cottonwood, juniper, Rocky Mountain juniper",357,26.79,26.79
+Yellowstone / Bighorn,97,266|268|366|367,Yellowstone / Bighorn Subalpine Conifer,"Limber pine, whitebark pine",358,45.08,45.08
