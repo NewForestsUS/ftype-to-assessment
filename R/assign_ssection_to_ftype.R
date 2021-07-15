@@ -8,10 +8,10 @@ library(rjson)
 
 # Path Settings
 ftype_dir <- '/home/atrusty/NewForests/Projects/Dendro/dendroBasemap/'
-rfia_dir <- '/home/atrusty/github/forest-offsets/R/'
+rfia_dir <- '/home/atrusty/github/ftype-to-assessment/data/'
 
 # Read in assessment area crosswalk
-assessment_areas <- fromJSON(file=paste0(rfia_dir, 'rfia_assessment_areas_subset.json'))
+assessment_areas <- fromJSON(file=paste0(rfia_dir, 'assessment_area_forest_type_codes.json'))
 
 # Read in forest type raster  
 ftype_rast <- raster(paste0(ftype_dir, 'CONUS-forest_type-240m.tif'))
