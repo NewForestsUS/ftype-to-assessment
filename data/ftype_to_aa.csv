@@ -1,0 +1,41 @@
+fortype,fortype_name,ssection,ssect_type,cp_hi,cp_lo
+103,Eastern White Pine,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,54.94,54.94
+171,Eastern Red Cedar ,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,54.94,54.94
+401,Eastern White Pine/ Northern Red Oak/White Ash,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,54.94,54.94
+409,Other Pine/Hardwood,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,54.94,54.94
+502,Chestnut Oak,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Oak-Hickory,119.27,117.89
+503,White Oak/Red Oak/Hickory,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Oak-Hickory,119.27,117.89
+505,Northern Red Oak,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Pine-Hardwood,54.94,54.94
+506,Yellow-poplar/White Oak/Northern Red Oak,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Cove Forests,114.61,97.06
+511,Yellow-poplar,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Northern Hardwoods,104.55,95.89
+513,Black Locust,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Hardwoods,80.47,62.31
+515,Chestnut Oak/Black Oak/Scarlet Oak,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Oak-Hickory,119.27,117.89
+517,Elm/Ash/Black Locust,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Hardwoods,80.47,62.31
+519,Red Maple/Oak,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Cove Forests,114.61,97.06
+520,Mixed Upland Hardwoods,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Mixed Hardwoods,80.47,62.31
+801,Sugar Maple/Beech/Yellow Birch,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Northern Hardwoods,104.55,95.89
+805,Hard (sugar) Maple/Basswood,Allegheny & North Cumberland Mountains,Allegheny & North Cumberland Mountains Northern Hardwoods,104.55,95.89
+201,Douglas Fir,Northern Rockies,Northern Rockies Mixed Conifer,42.63,42.63
+221,Ponderosa Pine,Northern Rockies,Northern Rockies Mixed Conifer,42.63,42.63
+266,Engelmann Spruce/Subalpine Fir,Northern Rockies,Northern Rockies Spruce / Fir,31.29,31.29
+267,Grand Fir,Northern Rockies,Northern Rockies Spruce / Fir,31.29,31.29
+268,Subalpine Fir,Northern Rockies,Northern Rockies Subalpine Mixed Conifer,30.83,30.83
+281,Lodgepole Pine,Northern Rockies,Northern Rockies Subalpine Mixed Conifer,30.83,30.83
+321,Western Larch,Northern Rockies,Northern Rockies Mixed Conifer,42.63,42.63
+367,Whitebark Pine,Northern Rockies,Northern Rockies Subalpine Mixed Conifer,30.83,30.83
+369,Misc Western Softwoods,Northern Rockies,Northern Rockies Spruce / Fir,31.29,31.29
+703,Cotton Wood,Northern Rockies,Northern Rockies Subalpine Mixed Conifer,30.83,30.83
+901,Aspen,Northern Rockies,Northern Rockies Spruce / Fir,31.29,31.29
+201,Douglas Fir,Bitterroot,Bitterroot Mixed Conifer,96.74,37.44
+221,Ponderosa Pine,Bitterroot,Bitterroot Mixed Conifer,96.74,37.44
+266,Engelmann Spruce/Subalpine Fir,Bitterroot,Bitterroot Fir / Spruce / Hemlock,82.63,26.45
+267,Grand Fir,Bitterroot,Bitterroot Fir / Spruce / Hemlock,82.63,26.45
+268,Subalpine Fir,Bitterroot,Bitterroot Subalpine Mixed Conifer,28.37,28.37
+281,Lodgepole Pine,Bitterroot,Bitterroot Subalpine Mixed Conifer,28.37,28.37
+369,Misc Western Softwoods,Bitterroot,Bitterroot Fir / Spruce / Hemlock,82.63,26.45
+901,Aspen,Bitterroot,Bitterroot Fir / Spruce / Hemlock,82.63,26.45
+201,Douglas Fir,Montana Rockies,Montana Rockies Mixed Conifer,36.38,36.38
+266,Engelmann Spruce/Subalpine Fir,Montana Rockies,Montana Rockies Spruce / Fir,24.15,24.15
+267,Grand Fir,Montana Rockies,Montana Rockies Spruce / Fir,24.15,24.15
+268,Subalpine Fir,Montana Rockies,Montana Rockies Spruce / Fir,24.15,24.15
+281,Lodgepole Pine,Montana Rockies,Montana Rockies Lodgepole Pine,37.98,37.98
