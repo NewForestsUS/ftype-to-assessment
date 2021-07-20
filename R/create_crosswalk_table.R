@@ -75,9 +75,15 @@ aa_ftype_expanded_dt <- lapply(aa_ftype_dt$aa_code, function(x)  {
 aa_ftype_expanded_dt <- fortypcmn_dt[aa_ftype_expanded_dt, on='ftype_code']
 aa_ftype_expanded_dt$ftype_name <- as.character(aa_ftype_expanded_dt$ftype_name)
 
+# Forest type 932 has been replaced with 933 in the most recent FIADB documentation,
+# and 933 is fairly common in the CONUS ftype raster
+aa_ftype_expanded_dt[ftype_code==932]$ftype_code <- 933
+
 # Trim columns
 cols2keep <- c("ftype_code", "ftype_name", "aa_code", "aa_name", "ss_code", "ss_name", "cp_lo", "cp_hi", "species")
 aa_crosswalk_dt <- aa_ftype_expanded_dt[,cols2keep, with=FALSE]
 
+# TODO: This crosswalk is missing classes 203, 934 and 935
+
 # Write out a copy of the forest type to assessment area crosswalk
-fwrite(aa_crosswalk_dt, paste0(data_dir, "ftype_to_assessment_crosswalk.csv"), overwrite=T)
+fwrite(aa_crosswalk_dt, paste0(data_dir, "ftype_to_assessment_crosswalk.csv"))
