@@ -80,4 +80,4 @@ cols2keep <- c("ftype_code", "ftype_name", "aa_code", "aa_name", "ss_code", "ss_
 aa_crosswalk_dt <- aa_ftype_expanded_dt[,cols2keep, with=FALSE]
 
 # Write out a copy of the forest type to assessment area crosswalk
-#fwrite(aa_crosswalk_dt, paste0(data_dir, "ftype_to_assessment_crosswalk.csv"))
+fwrite(aa_crosswalk_dt, paste0(data_dir, "ftype_to_assessment_crosswalk.csv"), overwrite=T)
