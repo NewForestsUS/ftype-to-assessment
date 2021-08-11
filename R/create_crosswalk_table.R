@@ -83,7 +83,18 @@ aa_ftype_expanded_dt[ftype_code==932]$ftype_code <- 933
 cols2keep <- c("ftype_code", "ftype_name", "aa_code", "aa_name", "ss_code", "ss_name", "cp_lo", "cp_hi", "species")
 aa_crosswalk_dt <- aa_ftype_expanded_dt[,cols2keep, with=FALSE]
 
-# TODO: This crosswalk is missing classes 203, 934 and 935
+# AT THIS POINT, the crosswalk is missing classes 203, 934 and 935 -- hardcode them
+# Notes: 
+# - There are only 3 pixels with class 203 (Big Cone Douglas Fir) which only occur in San Rafael and Los Padres forests in SoCal
+# - 934 and 935 are both oak variety that occur in Sierra foothills
+# TODO: In hindsight, it'd be more elegant to just make a subset of aa_crosswalk_dt and then add the new ftype codes...
+ftype_missing_dt <- fortypcmn_dt[ftype_code %in% c(203, 934, 935)]
+ftype_missing_dt$aa_code <- c("294", "281", "281")# Calling Bigcone mixed conifer, and the live oaks Mixed Oak Woodland ( same as 'Canyon live oak / interior live oak)
+aa_missing_dt <- aa_crosswalk_dt[aa_code %in% c(294, 281), !(names(aa_crosswalk_dt) %in% c("ftype_code", "ftype_name")), with=FALSE] %>% distinct()
+ftype_addons_dt <- ftype_missing_dt[aa_missing_dt, on="aa_code"]
+
+# Join the new data to the crosswalk
+aa_crosswalk_dt <- rbind(aa_crosswalk_dt, ftype_addons_dt, fill=T)
 
 # Write out a copy of the forest type to assessment area crosswalk
 fwrite(aa_crosswalk_dt, paste0(data_dir, "ftype_to_assessment_crosswalk.csv"))

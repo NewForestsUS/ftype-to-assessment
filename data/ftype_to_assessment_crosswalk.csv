@@ -3119,3 +3119,6 @@ ftype_code,ftype_name,aa_code,aa_name,ss_code,ss_name,cp_lo,cp_hi,species
 268,Subalpine fir,358,Subalpine Conifer,97,Yellowstone / Bighorn,45.08,45.08,"Limber pine, whitebark pine"
 366,Limber pine,358,Subalpine Conifer,97,Yellowstone / Bighorn,45.08,45.08,"Limber pine, whitebark pine"
 367,Whitebark pine,358,Subalpine Conifer,97,Yellowstone / Bighorn,45.08,45.08,"Limber pine, whitebark pine"
+934,Interior live oak,281,Mixed Oak Woodland,72,Sierra Nevada,83.11,83.11,"Bigleaf maple, blue oak, California black oak, California laurel, California live oak, cottonwood, willow, gray pine,  knobcone pine, western oak"
+935,California white oak / Valley oak,281,Mixed Oak Woodland,72,Sierra Nevada,83.11,83.11,"Bigleaf maple, blue oak, California black oak, California laurel, California live oak, cottonwood, willow, gray pine,  knobcone pine, western oak"
+203,Bigcone Douglas-fir,294,Mixed Conifer,78,Southern California Mountains,17.16,17.16,"California mixed conifer, cercocarpus (mountain brush), juniper, limber pine, lodgepole pine, pinyon, ponderosa pine, red alder, western juniper, white fir"
