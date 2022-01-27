@@ -1,3 +1,0 @@
-* Crosswalk FIA Forest Type to CARB Asssessment Area
-
-Tool to map [[https://www.fia.fs.fed.us/library/maps/][USFS Forest Inventory and Analysis program Forest Types]] to the Supersection and Assessment Areas defined by the California Air Resources Board in the [[https://ww2.arb.ca.gov/our-work/programs/compliance-offset-program/compliance-offset-protocols/us-forest-projects/2015][2015 Compliance Offset Protocol]].
