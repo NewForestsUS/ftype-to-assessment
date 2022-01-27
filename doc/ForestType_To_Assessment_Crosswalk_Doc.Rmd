@@ -23,9 +23,14 @@ raster_dir <- '/home/atrusty/Projects/Heatmap/SilviaTerra/dendroBasemap/'
 data_dir <- '/home/atrusty/github/ftype-to-assessment/data/'
 ```
 
-# Data loading
+# Forest Type to Assessment Area Crosswalk
 
-First we read in the supersections vector data
+This document describes the steps for generating a forest type to assessment area crosswalk using CAR supersections, FIA forest types, ARB species-to-forest, and Carbon plan assessment area and common practice. The resulting dataset includes a many-to-many mapping of forest types to assessment areas and common practice values. This crosswalk is later applied to forest type and supersection raster data to generate raster datasets of assessment area and common practice values.
+
+### Data loading
+
+First we read in the supersections vector data for the CONUS supplied by the Carbon Action Reserve (CAR):
+
 ```{r Read SuperSections, echo=FALSE, include=FALSE}
 # Read in supersection shapefile
 supersect_sf <- st_read(paste0(data_dir, 'CAR_supersections/CAR_supersections_coded.shp'))
@@ -63,7 +68,7 @@ fortypcds_dt$aa_code <- lapply(seq_along(fortypcds_json), function(i) names(fort
 kable(head(fortypcds_dt))
 ```
 
-Read in assessment area & common practice data from Carbon Plan Paper (TODO: Add Link):
+Lastly we read in the assessment area & common practice data from Carbon Plan Paper (TODO: Add Link):
 
 ```{r, echo=FALSE, include=FALSE}
 # Read in assessment area data 
@@ -75,8 +80,11 @@ aa_dt <- fread(paste0(data_dir,'2015_assessment_area_data_file.csv')) %>%
 kable(head(aa_dt))
 ```
 
-# Data Processing and Formatting
-Update assessment area names and format into a dataframe
+### Data Processing and Formatting
+
+This next section shows the steps to wrangle all of these inputs into a crosswalk table that links all of the forest types and supersections to their corresponding assessment areas and common practice values.
+
+Update assessment area names and format into a dataframe:
 
 ```{r}
 # Update assessment area name
@@ -109,6 +117,7 @@ aa_uni_dt <- aa_uni_dt[!(aa_uni_dt$aa_code %in% sc_all),]
 kable(head(aa_uni_dt))
 ```
 
+Join forest type lists to assessment area table:
 
 ```{r}
 # Join the forest type list to assessment data table
@@ -141,7 +150,7 @@ kable(head(aa_ftype_dt))
 kable(head(aa_ftype_expanded_dt))
 ```
 
-Update some forest type codes from FIA DB documentation
+Update some forest type codes from FIA DB documentation (TODO: Include link to documentation)
 ```{r}
 # Join the forest type common name to the data table
 aa_ftype_expanded_dt <- fortypcmn_dt[aa_ftype_expanded_dt, on='ftype_code']

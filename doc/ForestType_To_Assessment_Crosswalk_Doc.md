@@ -1,6 +1,17 @@
-# Data loading
+# Forest Type to Assessment Area Crosswalk
 
-First we read in the supersections vector data
+This document describes the steps for generating a forest type to
+assessment area crosswalk using CAR supersections, FIA forest types, ARB
+species-to-forest, and Carbon plan assessment area and common practice.
+The resulting dataset includes a many-to-many mapping of forest types to
+assessment areas and common practice values. This crosswalk is later
+applied to forest type and supersection raster data to generate raster
+datasets of assessment area and common practice values.
+
+### Data loading
+
+First we read in the supersections vector data for the CONUS supplied by
+the Carbon Action Reserve (CAR):
 
 ``` r
 kable(head(supersect_sf))
@@ -45,8 +56,8 @@ kable(head(fortypcds_dt))
 | 516, 707, 800, 801, 802, 805, 809                                                   | 7       |
 | 500, 501, 502, 503, 504, 505, 510, 514, 515                                         | 8       |
 
-Read in assessment area & common practice data from Carbon Plan Paper
-(TODO: Add Link):
+Lastly we read in the assessment area & common practice data from Carbon
+Plan Paper (TODO: Add Link):
 
 ``` r
 kable(head(aa_dt))
@@ -61,9 +72,13 @@ kable(head(aa_dt))
 | Allegheny & North Cumberland Mountains | Allegheny & North Cumberland Mountains Cove Forests |       3 |       2 | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak                                                                                                                                                                                                                                                                                                                   | high       |          114.61 |
 | Allegheny & North Cumberland Mountains | Allegheny & North Cumberland Mountains Cove Forests |       3 |       2 | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak                                                                                                                                                                                                                                                                                                                   | low        |           97.06 |
 
-# Data Processing and Formatting
+### Data Processing and Formatting
 
-Update assessment area names and format into a dataframe
+This next section shows the steps to wrangle all of these inputs into a
+crosswalk table that links all of the forest types and supersections to
+their corresponding assessment areas and common practice values.
+
+Update assessment area names and format into a dataframe:
 
 ``` r
 # Update assessment area name
@@ -104,6 +119,8 @@ kable(head(aa_uni_dt))
 | Mixed Hardwoods     | Black ash , American elm , red maple, black locust, cottonwood, elm, ash, birch,sycamore, sassafras, persimmon, pecan, willow                                                                                                                                                                                                                                                                                     | Allegheny & North Cumberland Mountains | Allegheny & North Cumberland Mountains | Mixed Hardwoods     | Black ash , American elm , red maple, black locust, cottonwood, elm, ash, birch,sycamore, sassafras, persimmon, pecan, willow                                                                                                                                                                                                                                                                                     |  62.31 |  80.47 | 2       | 4       |
 | Mixed Pine-Hardwood | Eastern redcedar, eastern white pine, northern red oak, white ash, Virginia pine, southern red oak                                                                                                                                                                                                                                                                                                                | Allegheny & North Cumberland Mountains | Allegheny & North Cumberland Mountains | Mixed Pine-Hardwood | Eastern redcedar, eastern white pine, northern red oak, white ash, Virginia pine, southern red oak                                                                                                                                                                                                                                                                                                                |  54.94 |  54.94 | 2       | 5       |
 | Northern Conifer    | Aspen, balsam fir, black spruce, eastern white pine, Norway spruce, red pine, red spruce, Scotch pine                                                                                                                                                                                                                                                                                                             | Allegheny & North Cumberland Mountains | Allegheny & North Cumberland Mountains | Northern Conifer    | Aspen, balsam fir, black spruce, eastern white pine, Norway spruce, red pine, red spruce, Scotch pine                                                                                                                                                                                                                                                                                                             |  53.65 |  53.65 | 2       | 6       |
+
+Join forest type lists to assessment area table:
 
 ``` r
 # Join the forest type list to assessment data table
@@ -154,7 +171,8 @@ kable(head(aa_ftype_expanded_dt))
 | Allegheny & North Cumberland Mountains | 2       | 104, 105, 506, 511, 512, 519 | Cove Forests | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak | 3       | 97.06 | 114.61 | 512        |
 | Allegheny & North Cumberland Mountains | 2       | 104, 105, 506, 511, 512, 519 | Cove Forests | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak | 3       | 97.06 | 114.61 | 519        |
 
-Update some forest type codes from FIA DB documentation
+Update some forest type codes from FIA DB documentation (TODO: Include
+link to documentation)
 
 ``` r
 # Join the forest type common name to the data table
