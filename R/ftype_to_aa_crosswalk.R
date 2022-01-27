@@ -7,9 +7,9 @@ library(fasterize)
 library(parallel)
 
 # Set paths
-raster_dir <- '/home/atrusty/Insync/atrusty@newforests-us.com/OneDrive Biz - SharePoint/NFUS Analytics - Documents/Heatmap/SilviaTerra/dendroBasemap/'
+raster_dir <- '/home/atrusty/Projects/Heatmap/SilviaTerra/dendroBasemap/'
 data_dir <- '/home/atrusty/github/ftype-to-assessment/data/'
-aa_dir <- '/home/atrusty/Insync/atrusty@newforests-us.com/OneDrive Biz - SharePoint/NFUS Analytics - Documents/Heatmap/SilviaTerra/assessmentArea/'
+aa_dir <- '/home/atrusty/Projects/Heatmap/SilviaTerra/assessmentArea/'
 
 # Read in forest type to assessment crosswalk
 aa_ftype_dt <- fread(paste0(data_dir, "ftype_to_assessment_crosswalk.csv"))
