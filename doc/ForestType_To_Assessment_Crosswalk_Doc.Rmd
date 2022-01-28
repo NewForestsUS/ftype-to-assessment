@@ -55,7 +55,7 @@ fortypcmn_dt$ftype_code <- lapply(seq_along(fortypcmn_json), function(i) names(f
 kable(head(fortypcmn_dt))
 ```
 
-As well as species-to-forest type codes from ARB:
+As well as a mapping of forest type lists to assessment area codes from ARB:
 ```{r Read Species-to-Forest, echo=FALSE, include=FALSE}
 # Read in species-forest type codes and format as a data table
 fortypcds_json <- fromJSON(file = paste0(data_dir, "arb_fortypcds.json")) # 348
@@ -68,7 +68,7 @@ fortypcds_dt$aa_code <- lapply(seq_along(fortypcds_json), function(i) names(fort
 kable(head(fortypcds_dt))
 ```
 
-Lastly we read in the assessment area & common practice data from Carbon Plan Paper (TODO: Add Link):
+Lastly we read in the assessment area & common practice data from Carbon Plan Paper (TODO: Add Link). This includes the mapping of forest supersections to assessment area and species lists:
 
 ```{r, echo=FALSE, include=FALSE}
 # Read in assessment area data 
@@ -150,7 +150,7 @@ kable(head(aa_ftype_dt))
 kable(head(aa_ftype_expanded_dt))
 ```
 
-Update some forest type codes from FIA DB documentation (TODO: Include link to documentation)
+Expand the listUpdate some forest type codes from FIA DB documentation (TODO: Include link to documentation)
 ```{r}
 # Join the forest type common name to the data table
 aa_ftype_expanded_dt <- fortypcmn_dt[aa_ftype_expanded_dt, on='ftype_code']
@@ -175,8 +175,8 @@ ftype_addons_dt <- ftype_missing_dt[aa_missing_dt, on="aa_code"]
 
 ```
 
-Join the updated reformatted fores types:
-```{r, echo=FALSE, include=FALSE}
+Join the updated reformatted forest types:
+```{r}
 # Join the new data to the crosswalk
 aa_crosswalk_dt <- rbind(aa_crosswalk_dt, ftype_addons_dt, fill=T)
 

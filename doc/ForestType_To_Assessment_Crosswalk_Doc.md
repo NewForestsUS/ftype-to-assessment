@@ -41,7 +41,8 @@ kable(head(fortypcmn_dt))
 | Eastern hemlock                      | 105        |
 | Balsam fir                           | 121        |
 
-As well as species-to-forest type codes from ARB:
+As well as a mapping of forest type lists to assessment area codes from
+ARB:
 
 ``` r
 kable(head(fortypcds_dt))
@@ -57,7 +58,8 @@ kable(head(fortypcds_dt))
 | 500, 501, 502, 503, 504, 505, 510, 514, 515                                         | 8       |
 
 Lastly we read in the assessment area & common practice data from Carbon
-Plan Paper (TODO: Add Link):
+Plan Paper (TODO: Add Link). This includes the mapping of forest
+supersections to assessment area and species lists:
 
 ``` r
 kable(head(aa_dt))
@@ -171,8 +173,8 @@ kable(head(aa_ftype_expanded_dt))
 | Allegheny & North Cumberland Mountains | 2       | 104, 105, 506, 511, 512, 519 | Cove Forests | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak | 3       | 97.06 | 114.61 | 512        |
 | Allegheny & North Cumberland Mountains | 2       | 104, 105, 506, 511, 512, 519 | Cove Forests | Black walnut, eastern hemlock, eastern white pine, red maple, red oak, yellow poplar, white oak | 3       | 97.06 | 114.61 | 519        |
 
-Update some forest type codes from FIA DB documentation (TODO: Include
-link to documentation)
+Expand the listUpdate some forest type codes from FIA DB documentation
+(TODO: Include link to documentation)
 
 ``` r
 # Join the forest type common name to the data table
@@ -197,7 +199,15 @@ aa_missing_dt <- aa_crosswalk_dt[aa_code %in% c(294, 281), !(names(aa_crosswalk_
 ftype_addons_dt <- ftype_missing_dt[aa_missing_dt, on="aa_code"]
 ```
 
-Join the updated reformatted fores types:
+Join the updated reformatted forest types:
+
+``` r
+# Join the new data to the crosswalk
+aa_crosswalk_dt <- rbind(aa_crosswalk_dt, ftype_addons_dt, fill=T)
+
+# TODO: Maybe better to fix this at an earlier step
+aa_crosswalk_dt$aa_name <- paste(aa_crosswalk_dt$ss_name, aa_crosswalk_dt$aa_name)
+```
 
 Final crosswalk table
 
