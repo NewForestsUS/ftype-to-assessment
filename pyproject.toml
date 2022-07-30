@@ -1,0 +1,30 @@
+[build-system]
+requires = ["hatchling","pandas"]
+build-backend = "hatchling.build"
+
+[project]
+name = "ftypeaa"
+version = "0.0.1"
+authors = [
+  {name="Peter Tittmann", email="ptittmann@newforests-us.com"},
+  {name="Alec Trusty", email="atrusty@newforests-us.com"},
+]
+description = "Package for converting FIA forest types to assessment areas"
+readme = "README.md"
+license = { file="LICENSE" }
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/NewForestsUS/ftype-to-assessment"
+"Bug Tracker" = "https://github.com/NewForestsUS/ftype-to-assessment/issues"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+mypkg = ["*.csv"]
