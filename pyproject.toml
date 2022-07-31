@@ -1,5 +1,5 @@
 [build-system]
-requires = ["hatchling","pandas"]
+requires = ["hatchling","pandas", "geopandas"]
 build-backend = "hatchling.build"
 
 [project]
@@ -27,4 +27,4 @@ classifiers = [
 where = ["src"]
 
 [tool.setuptools.package-data]
-mypkg = ["*.csv"]
+mypkg = ["*.csv","*.shp","*.dbf","*.prj","*.sbn","*.sbx"]
