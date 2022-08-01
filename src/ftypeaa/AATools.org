@@ -1,0 +1,45 @@
+* Assessment Area Tools
+
+** Load the FIA to AA lookup table
+
+#+BEGIN_SRC jupyter-python :tangle aatools.py
+from importlib.resources import files
+import pandas as pd
+import geopandas as gpd
+
+FTAALOOKUP = pd.read_csv(files('ftypeaa.data').joinpath('ftype_to_assessment_crosswalk.csv'))
+#+END_SRC
+
+
+** Return the Supersections shapefile
+#+BEGIN_SRC jupyter-python :tangle aatools.py
+SSECT = gpd.read_file(files('ftypeaa.data.CAR_supersections').joinpath('CAR_supersections_coded.shp'))
+#+END_SRC
+
+
+** Attribute a layer with supersections
+
+This is just based on a centroid intersection.
+#+BEGIN_SRC jupyter-python :tangle aatools.py
+def attributeSS(inputLayer, dissolveOn = 'Stand_ID'):
+    """
+    Intersects stands layer with supersections
+    Returns:
+        
+
+    """
+    toCrs = inputLayer.crs
+    ssReproj = SSECT.to_crs(toCrs)
+    ssLayer = inputLayer.sjoin(ssReproj, how='left').dissolve(by=dissolveOn).reset_index()
+    return ssLayer
+#+END_SRC
+
+#+RESULTS:
+
+
+* Local Variables
+
+
+# Local Variables:
+# eval: (add-hook 'after-save-hook (lambda ()(org-babel-tangle)) nil t)
+# End:
